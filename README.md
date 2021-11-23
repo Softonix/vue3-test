@@ -1,4 +1,4 @@
-# sx-test-vue3
+# Vue3 test task
 
 ## Project setup
 ```
