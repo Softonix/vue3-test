@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### Execution flow
+- Create branch from main and name it with next convention: `dev-[lastname]-[date]`. Example: `dev-smith-24112021`.
+- Once done, create PR into main from your dev branch. Add `Andriy Vasylytsya` and `Viktor Romanyuk` as reviewers.
+- Ping contact person about finishing the task.
+
 ### Task description
 Main idea of the task is to group job openings items (coming from `jobOpeningsService.fetchJobOpenings()` method) by departments key. All available departments are coming from `jobOpeningsService.fetchDepartments()`.
 
