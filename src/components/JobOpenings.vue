@@ -82,6 +82,7 @@
                 <div class="truncate body-text my-1">{{ el }}</div>
               </div>
 
+              <!-- TODO: Show see more button only in case more than 5 items in group -->
               <div
                 v-if="dummyJobOpenings2.length > 5"
                 class="flex items-center border-l border-cloudy-blue ml-2"

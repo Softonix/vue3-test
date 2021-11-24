@@ -133,7 +133,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618e0574006c779531bb5b30',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -142,7 +142,7 @@ export const jobOpenings = [
   {
     title: 'Production Supervisor',
     id: '618e056f006c779531bb4ff5',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -152,7 +152,7 @@ export const jobOpenings = [
   {
     title: 'Sales Leadership Program',
     id: '618e0557006c779531bb1465',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -161,7 +161,7 @@ export const jobOpenings = [
   {
     title: 'SAP Master Data Analyst - 12 month contract',
     id: '618e0537006c779531bacb16',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology'
     ],
@@ -171,7 +171,7 @@ export const jobOpenings = [
   {
     title: 'Stage - Assistant Communication H/F',
     id: '618e052e006c779531bab4ba',
-    categories: [
+    departments: [
       'support'
     ],
     isClosed: false,
@@ -180,7 +180,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618e0526006c779531baa306',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -189,7 +189,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Sales',
     id: '618e0525006c779531ba9ff7',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -199,7 +199,7 @@ export const jobOpenings = [
   {
     title: 'Finance Sr Analyst',
     id: '618e04d9006c779531b9e91b',
-    categories: [
+    departments: [
       'data_analysis',
       'finance'
     ],
@@ -209,7 +209,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Full-time/Days)',
     id: '618e04b8006c779531b99e3b',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -218,14 +218,14 @@ export const jobOpenings = [
   {
     title: 'EHS Specialist',
     id: '618e0486006c779531b93057',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/253564BR?lang=en-ie&previousLocale=en-US'
   },
   {
     title: 'Weekend Part Time Merchandiser - KESWICK (GEORGINA)',
     id: '618e03ed006c779531b7c59f',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -234,7 +234,7 @@ export const jobOpenings = [
   {
     title: 'Feedmill Operator (Tropicana) Full Time/Seasonal',
     id: '618e03d2006c779531b782af',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -243,7 +243,7 @@ export const jobOpenings = [
   {
     title: 'Route Engineer',
     id: '618e03b6006c779531b73c08',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -252,7 +252,7 @@ export const jobOpenings = [
   {
     title: 'Digial Solutions - Quality Control Associate Analyst',
     id: '618e0386006c779531b6c73d',
-    categories: [
+    departments: [
       'data_analysis',
       'quality_assurance'
     ],
@@ -262,7 +262,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production (Full-time/NIghts)',
     id: '618e0380006c779531b6b789',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -272,7 +272,7 @@ export const jobOpenings = [
   {
     title: 'Principal Data Engineer, Manager',
     id: '618e037a006c779531b6a8df',
-    categories: [
+    departments: [
       'data_analysis',
       'education',
       'engineering',
@@ -285,7 +285,7 @@ export const jobOpenings = [
   {
     title: 'Electro-Mechanical Technician (Nights)',
     id: '618e036e006c779531b68bdc',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -294,7 +294,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician Trainee',
     id: '618e0366006c779531b6795f',
-    categories: [
+    departments: [
       'engineering',
       'internship',
       'support'
@@ -305,7 +305,7 @@ export const jobOpenings = [
   {
     title: 'HR Associate Manager',
     id: '618e0358006c779531b65788',
-    categories: [
+    departments: [
       'human_resources',
       'management'
     ],
@@ -315,7 +315,7 @@ export const jobOpenings = [
   {
     title: 'Weekend Part Time Merchandiser - ORANGEVILLE',
     id: '618e0345006c779531b62a05',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -324,7 +324,7 @@ export const jobOpenings = [
   {
     title: 'Electro-Mechanical Technician (Nights)',
     id: '618e0341006c779531b61f9c',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -333,7 +333,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (Full-time)',
     id: '618e030e006c779531b5a9bf',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -342,7 +342,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Geo Delivery (Box Truck)',
     id: '618e030e006c779531b5a809',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -351,7 +351,7 @@ export const jobOpenings = [
   {
     title: 'Fountain Installer (MEM) FT/Days/CDL A Permit',
     id: '618e02e1006c779531b53aab',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -360,7 +360,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver (Box Truck) CDL A',
     id: '618e02c6006c779531b4f969',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -369,7 +369,7 @@ export const jobOpenings = [
   {
     title: 'Productie Operator nacht',
     id: '618e02b7006c779531b4d35c',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -378,7 +378,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618e02a0006c779531b4991b',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -387,7 +387,7 @@ export const jobOpenings = [
   {
     title: 'Communications Senior Analyst, Juice Plus',
     id: '618e029c006c779531b4916b',
-    categories: [
+    departments: [
       'data_analysis'
     ],
     isClosed: false,
@@ -396,7 +396,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Bay/Full Service Vending - CDL A',
     id: '618e027b006c779531b442bd',
-    categories: [
+    departments: [
       'support'
     ],
     isClosed: false,
@@ -405,7 +405,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) - Evenings',
     id: '618e0265006c779531b40994',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -414,7 +414,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician - CDL A / HIRING BONUS',
     id: '618e0263006c779531b4064f',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -423,7 +423,7 @@ export const jobOpenings = [
   {
     title: 'Brand Manager - Twisties, Cheetos, Burger Rings, Toobs',
     id: '618e0214006c779531b35339',
-    categories: [
+    departments: [
       'management',
       'marketing'
     ],
@@ -433,7 +433,7 @@ export const jobOpenings = [
   {
     title: 'Full-time DRIVER - (BOX TRUCK) non CDL - Days',
     id: '618e01ef006c779531b2fd19',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -442,14 +442,14 @@ export const jobOpenings = [
   {
     title: 'PROMOTOR(A) DE VENDAS',
     id: '618e019a006c779531b2437b',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/251910BR?lang=pt-br&previousLocale=en-US'
   },
   {
     title: 'Sales Rep - Relief Large Grocery/Mass Merch',
     id: '618e0182006c779531b20ac0',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -458,7 +458,7 @@ export const jobOpenings = [
   {
     title: 'Administrative Assistant',
     id: '618e0152006c779531b191e4',
-    categories: [
+    departments: [
       'administration',
       'support'
     ],
@@ -468,7 +468,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)',
     id: '618e012b006c779531b134fc',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -477,7 +477,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Required',
     id: '618e011d006c779531b1117e',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -486,7 +486,7 @@ export const jobOpenings = [
   {
     title: 'Production Manager',
     id: '618e00d3006c779531b05bd2',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -496,7 +496,7 @@ export const jobOpenings = [
   {
     title: 'Technician - Quality Control (Full-time)',
     id: '618e00b1006c779531b00c5b',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -505,7 +505,7 @@ export const jobOpenings = [
   {
     title: 'Mechanical Engineer- Supervisor - Menia Plant',
     id: '618e009e006c779531afdb57',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -515,7 +515,7 @@ export const jobOpenings = [
   {
     title: 'Sales Leadership Program - Vancouver',
     id: '618e0083006c779531af9999',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -524,7 +524,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (South Lake Tahoe/Tahoe/Truckee areas)',
     id: '618e007d006c779531af8883',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -533,7 +533,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (Full-time/Days/CDL A Required)',
     id: '618e007c006c779531af86c0',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -542,7 +542,7 @@ export const jobOpenings = [
   {
     title: 'Entry-Level Truck Mechanic (CDL A permit)',
     id: '618e0069006c779531af5b26',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -551,7 +551,7 @@ export const jobOpenings = [
   {
     title: 'Revenue Management Pack Price Architecture Senior Manager',
     id: '618e0043006c779531aefd6f',
-    categories: [
+    departments: [
       'finance',
       'management'
     ],
@@ -561,7 +561,7 @@ export const jobOpenings = [
   {
     title: 'Principal Data Scientist',
     id: '618e0029006c779531aebe55',
-    categories: [
+    departments: [
       'data_analysis',
       'education',
       'information_technology',
@@ -573,7 +573,7 @@ export const jobOpenings = [
   {
     title: 'Route Sales Representative - BRAMPTON',
     id: '618e0019006c779531ae976e',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -582,7 +582,7 @@ export const jobOpenings = [
   {
     title: 'Infrastructure & DevOps Engineer',
     id: '618e0003006c779531ae6075',
-    categories: [
+    departments: [
       'engineering',
       'information_technology'
     ],
@@ -592,7 +592,7 @@ export const jobOpenings = [
   {
     title: 'Marketing Manager – Hydration Strategy & Planning',
     id: '618dffe7006c779531ae1fcd',
-    categories: [
+    departments: [
       'consulting',
       'management',
       'marketing'
@@ -603,7 +603,7 @@ export const jobOpenings = [
   {
     title: 'Data Products Director - Demand Planning',
     id: '618dffc8006c779531adcef9',
-    categories: [
+    departments: [
       'data_analysis',
       'directors',
       'education',
@@ -616,7 +616,7 @@ export const jobOpenings = [
   {
     title: 'R&D Packaging Engineer',
     id: '618dffc4006c779531adc822',
-    categories: [
+    departments: [
       'engineering',
       'research'
     ],
@@ -626,14 +626,14 @@ export const jobOpenings = [
   {
     title: 'Reset Specialist',
     id: '618dffa1006c779531ad7628',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000776945306?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Local Delivery Driver - (Box Truck) (CDL A Required)',
     id: '618dffa0006c779531ad74da',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -642,7 +642,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Relief',
     id: '618dff8e006c779531ad46f8',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -651,7 +651,7 @@ export const jobOpenings = [
   {
     title: 'Quality Supervisor',
     id: '618dff6c006c779531acfbf5',
-    categories: [
+    departments: [
       'management',
       'quality_assurance'
     ],
@@ -661,7 +661,7 @@ export const jobOpenings = [
   {
     title: 'Chef de projet Transformation Supply Chain, CDI, H/F',
     id: '618dff59006c779531acce34',
-    categories: [
+    departments: [
       'management',
       'purchasing',
       'food'
@@ -672,7 +672,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-time)',
     id: '618dff2e006c779531ac6afd',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -681,7 +681,7 @@ export const jobOpenings = [
   {
     title: 'Senior Category Manager, FLNA North Division, Meijer',
     id: '618dff29006c779531ac60e0',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -690,7 +690,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Evenings/CDL A Permit)',
     id: '618dff0b006c779531ac2291',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -699,14 +699,14 @@ export const jobOpenings = [
   {
     title: 'Marchandiseur Temps Partiel',
     id: '618dfef1006c779531abe270',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/252756BR?lang=fr-ca&previousLocale=en-US'
   },
   {
     title: 'Local Delivery Driver - CDL A Required (Hiring Bonus)',
     id: '618dfee3006c779531abbf91',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -715,7 +715,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Convenience/Gas',
     id: '618dfec5006c779531ab77f8',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -724,7 +724,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Required',
     id: '618dfead006c779531ab398e',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -733,7 +733,7 @@ export const jobOpenings = [
   {
     title: 'Global Procurement Sr Manager, Grains',
     id: '618dfe94006c779531aafc42',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -743,7 +743,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Seasonal)',
     id: '618dfe58006c779531aa6973',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -752,7 +752,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Merchandiser - Days',
     id: '618dfe3f006c779531aa2bff',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -761,7 +761,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Permit Required',
     id: '618dfe38006c779531aa1aee',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -770,7 +770,7 @@ export const jobOpenings = [
   {
     title: 'Seasonal General Labor - Sales',
     id: '618dfe31006c779531aa0b26',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -780,7 +780,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Supervisor',
     id: '618dfdea006c779531a95c3b',
-    categories: [
+    departments: [
       'management',
       'manual_work'
     ],
@@ -790,7 +790,7 @@ export const jobOpenings = [
   {
     title: 'Associate Manager Insights, CDD 8 mois, H/F',
     id: '618dfdd3006c779531a923a2',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -799,7 +799,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618dfdaf006c779531a8cbe6',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -808,14 +808,14 @@ export const jobOpenings = [
   {
     title: 'Supply Chain (Repack) Planner',
     id: '618dfd9b006c779531a89d3f',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/253445BR?lang=en-tr&previousLocale=en-US'
   },
   {
     title: 'Director, Data Steward Lead, Finance',
     id: '618dfd82006c779531a85e3b',
-    categories: [
+    departments: [
       'data_analysis',
       'directors',
       'education',
@@ -829,7 +829,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Bulk Delivery (tractor trailer) - Nights/CDL A',
     id: '618dfd7d006c779531a8529f',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -838,7 +838,7 @@ export const jobOpenings = [
   {
     title: 'Agent vanzari',
     id: '618dfd68006c779531a8238b',
-    categories: [
+    departments: [
       'real_estate'
     ],
     isClosed: false,
@@ -847,7 +847,7 @@ export const jobOpenings = [
   {
     title: 'SAP Master Data Analyst',
     id: '618dfd62006c779531a8178d',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology'
     ],
@@ -857,7 +857,7 @@ export const jobOpenings = [
   {
     title: 'IT Auditor',
     id: '618dfd2a006c779531a7907a',
-    categories: [
+    departments: [
       'finance',
       'information_technology'
     ],
@@ -867,7 +867,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Merchandising Sales Fargo',
     id: '618dfd19006c779531a76571',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -877,7 +877,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Geo Delivery',
     id: '618dfd17006c779531a76222',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -886,7 +886,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618dfd03006c779531a7311b',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -895,7 +895,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-time/Rotating Shifts)',
     id: '618dfcfe006c779531a72495',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -904,7 +904,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Delivery Truck (CDL A Permit)',
     id: '618dfcf8006c779531a71598',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -913,7 +913,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Relief Schedule GeoBox (CDL Required)',
     id: '618dfcd4006c779531a6c9cb',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -922,7 +922,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)-FT/Evenings',
     id: '618dfcae006c779531a66ebb',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -931,7 +931,7 @@ export const jobOpenings = [
   {
     title: 'Supply Chain Operations Associate Supervisor',
     id: '618dfcaa006c779531a6668b',
-    categories: [
+    departments: [
       'management',
       'operations',
       'purchasing'
@@ -942,7 +942,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (Level 1 / Nights)',
     id: '618dfc91006c779531a62f7c',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -952,7 +952,7 @@ export const jobOpenings = [
   {
     title: 'Solution Architect',
     id: '618dfc79006c779531a5fe70',
-    categories: [
+    departments: [
       'design'
     ],
     isClosed: false,
@@ -961,7 +961,7 @@ export const jobOpenings = [
   {
     title: 'Sales Representative – South West Sydney',
     id: '618dfc75006c779531a5f6ea',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -970,7 +970,7 @@ export const jobOpenings = [
   {
     title: 'Forklift Operator',
     id: '618dfc73006c779531a5f10f',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -979,7 +979,7 @@ export const jobOpenings = [
   {
     title: 'Senior Data Engineer',
     id: '618dfc65006c779531a5d184',
-    categories: [
+    departments: [
       'data_analysis',
       'engineering',
       'information_technology'
@@ -990,7 +990,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Full-time/Days/Seasonal)',
     id: '618dfc27006c779531a538dd',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -999,7 +999,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Merchandiser- Days',
     id: '618dfc13006c779531a509c8',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1008,7 +1008,7 @@ export const jobOpenings = [
   {
     title: 'Responsable Approvisionnement Clients, CDI, H/F',
     id: '618dfbff006c779531a4da4d',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1017,7 +1017,7 @@ export const jobOpenings = [
   {
     title: 'Shift leader - Supervisor - October Beverages',
     id: '618dfbfe006c779531a4d85d',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -1026,7 +1026,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dfbfb006c779531a4cf34',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1035,7 +1035,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Supply Chain IT Senior Analyst',
     id: '618dfbf6006c779531a4c1d9',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'purchasing',
@@ -1047,7 +1047,7 @@ export const jobOpenings = [
   {
     title: 'Sales Manager- Kitchener',
     id: '618dfbd8006c779531a47a2c',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -1057,7 +1057,7 @@ export const jobOpenings = [
   {
     title: 'Enterprise Service Management Experience Design Lead',
     id: '618dfb64006c779531a35e81',
-    categories: [
+    departments: [
       'design',
       'management',
       'support'
@@ -1068,7 +1068,7 @@ export const jobOpenings = [
   {
     title: 'Part-time Merchandiser- Days',
     id: '618dfb63006c779531a35c58',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1077,7 +1077,7 @@ export const jobOpenings = [
   {
     title: 'Local Deliver Driver (Box Truck) CDL A Required',
     id: '618dfb5d006c779531a34ba4',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1086,21 +1086,21 @@ export const jobOpenings = [
   {
     title: 'Lead Yard Jockey-Night',
     id: '618dfb37006c779531a2f243',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000781192406?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Yard Jockey',
     id: '618dfb03006c779531a273be',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000785210806?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Senior Category Manager, PBNA North Division, Meijer',
     id: '618dfac5006c779531a1def5',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -1109,7 +1109,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Operations- Nights',
     id: '618dfa99006c779531a16ffc',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -1119,7 +1119,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production-Federal Road',
     id: '618dfa8f006c779531a155e2',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -1129,7 +1129,7 @@ export const jobOpenings = [
   {
     title: 'Part-time Merchandiser - Lower Mainland',
     id: '618dfa5b006c779531a0d868',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1138,7 +1138,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician - Evenings/CDL A Permit - SIGN ON BONUS',
     id: '618dfa2e006c779531a0701c',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -1147,7 +1147,7 @@ export const jobOpenings = [
   {
     title: 'Fruit General Labor (Tropicana- Seasonal /Full Time)',
     id: '618dfa1f006c779531a04c29',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -1157,14 +1157,14 @@ export const jobOpenings = [
   {
     title: 'Process Operators - Night Shift',
     id: '618dfa06006c779531a00dee',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/248128BR?lang=en-au&previousLocale=en-US'
   },
   {
     title: 'Data Engineering Director',
     id: '618df9de006c7795319fbf99',
-    categories: [
+    departments: [
       'data_analysis',
       'directors',
       'education',
@@ -1177,7 +1177,7 @@ export const jobOpenings = [
   {
     title: 'Full-time General Labor - Operations-Days',
     id: '618df9d8006c7795319fb0a2',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -1187,14 +1187,14 @@ export const jobOpenings = [
   {
     title: 'Specialist, eCommerce Shopper Insights',
     id: '618df9d6006c7795319faacb',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/251475BR?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Experienced Fleet Technician - FT/Nights/CDL A Permit Required',
     id: '618df9b8006c7795319f6148',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -1203,7 +1203,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A (Servicing Statesboro, Metter, & Vidalia)',
     id: '618df9a9006c7795319f3ea6',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1212,14 +1212,14 @@ export const jobOpenings = [
   {
     title: 'SC QC Assoc Resource',
     id: '618df9a5006c7795319f346f',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/253123BR?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Merchandiser - Gladstone, Liberty, KC, Independence, Richmond, Blue Springs',
     id: '618df998006c7795319f1361',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1228,7 +1228,7 @@ export const jobOpenings = [
   {
     title: 'Sales Representative- Ottawa',
     id: '618df970006c7795319eb34e',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -1237,7 +1237,7 @@ export const jobOpenings = [
   {
     title: 'Delivery- Relief Route Sales Driver - CDL A Required',
     id: '618df930006c7795319e153b',
-    categories: [
+    departments: [
       'sales',
       'manual_work'
     ],
@@ -1247,7 +1247,7 @@ export const jobOpenings = [
   {
     title: 'Category Planning Analyst ( 6 months FTC)',
     id: '618df8ee006c7795319d7454',
-    categories: [
+    departments: [
       'data_analysis'
     ],
     isClosed: false,
@@ -1256,7 +1256,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-time) *San Jose, CA',
     id: '618df8cb006c7795319d22aa',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1265,7 +1265,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production',
     id: '618df8c1006c7795319d0bb6',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -1275,7 +1275,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Food Service/Vending Product Delivery - CDL A',
     id: '618df8ae006c7795319cdce7',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1284,7 +1284,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Sales (Part-Time/Days)',
     id: '618df8ad006c7795319cd8a6',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -1294,7 +1294,7 @@ export const jobOpenings = [
   {
     title: 'Data Steward Sr. Manager (External Data)',
     id: '618df892006c7795319c9e60',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'management',
@@ -1306,7 +1306,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production - (Kevita)',
     id: '618df891006c7795319c9b7b',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -1316,7 +1316,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Transport Driver (tractor trailer) (FT/CDL A Required)',
     id: '618df833006c7795319bb00a',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1325,7 +1325,7 @@ export const jobOpenings = [
   {
     title: 'Full-Time Merchandiser - Edmonton',
     id: '618df830006c7795319ba830',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1334,7 +1334,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)',
     id: '618df82a006c7795319b99c2',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1343,7 +1343,7 @@ export const jobOpenings = [
   {
     title: 'Lead Fountain Installer (MEM)',
     id: '618df807006c7795319b442e',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1352,7 +1352,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Food Service/Vending Product Delivery',
     id: '618df7ef006c7795319b06a5',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1361,7 +1361,7 @@ export const jobOpenings = [
   {
     title: 'Digital Solutions - Quality Control Associate Analyst',
     id: '618df7e0006c7795319ae2ae',
-    categories: [
+    departments: [
       'data_analysis',
       'quality_assurance'
     ],
@@ -1371,7 +1371,7 @@ export const jobOpenings = [
   {
     title: 'Procurement Specialist',
     id: '618df7af006c7795319a7332',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1380,7 +1380,7 @@ export const jobOpenings = [
   {
     title: 'Manufacturing Sr Manager',
     id: '618df7aa006c7795319a677e',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -1390,7 +1390,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Sales-FT/Days',
     id: '618df7a7006c7795319a60f7',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -1400,7 +1400,7 @@ export const jobOpenings = [
   {
     title: 'Global Procurement Sr Manager, Strategic Sourcing - Oats',
     id: '618df79b006c7795319a4194',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -1410,7 +1410,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) - Evenings',
     id: '618df776006c77953199f28b',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1419,7 +1419,7 @@ export const jobOpenings = [
   {
     title: 'Entry-Level Truck Mechanic (CDL A permit)',
     id: '618df75d006c77953199bbfd',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1428,7 +1428,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Sales (Part-Time/Days)',
     id: '618df756006c77953199ac02',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -1438,7 +1438,7 @@ export const jobOpenings = [
   {
     title: 'Talent Acquisition Coordinator',
     id: '618df6c4006c77953198446b',
-    categories: [
+    departments: [
       'human_resources',
       'management',
       'marketing'
@@ -1449,7 +1449,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician Trainee Evenings',
     id: '618df6bd006c7795319833ef',
-    categories: [
+    departments: [
       'engineering',
       'internship',
       'support'
@@ -1460,7 +1460,7 @@ export const jobOpenings = [
   {
     title: 'Automation Engineer',
     id: '618df69a006c77953197df2c',
-    categories: [
+    departments: [
       'engineering',
       'software_development'
     ],
@@ -1470,7 +1470,7 @@ export const jobOpenings = [
   {
     title: 'SC PKG Associate Supervisor',
     id: '618df694006c77953197cf27',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -1479,7 +1479,7 @@ export const jobOpenings = [
   {
     title: 'Chauffeur (Classe 1) - horaire de 4 jours/semaine',
     id: '618df693006c77953197caf1',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1488,7 +1488,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) FT/Evenings',
     id: '618df684006c77953197a522',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1497,7 +1497,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) Nights',
     id: '618df658006c779531973e22',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1506,7 +1506,7 @@ export const jobOpenings = [
   {
     title: 'Senior Brand Marketing Manager',
     id: '618df626006c77953196c31a',
-    categories: [
+    departments: [
       'management',
       'marketing'
     ],
@@ -1516,7 +1516,7 @@ export const jobOpenings = [
   {
     title: 'HR Technician Echavarri Plant',
     id: '618df618006c77953196a252',
-    categories: [
+    departments: [
       'engineering',
       'human_resources'
     ],
@@ -1526,7 +1526,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Transport Driver (tractor trailer) FT/Nights/ CDL A',
     id: '618df616006c779531969d0e',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1535,7 +1535,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver -CDL A Required',
     id: '618df603006c7795319671ce',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1544,7 +1544,7 @@ export const jobOpenings = [
   {
     title: 'Senior DevOps Engineer, Associate Manager',
     id: '618df5f5006c779531964ea6',
-    categories: [
+    departments: [
       'engineering',
       'information_technology',
       'management'
@@ -1555,7 +1555,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618df5f0006c7795319641bf',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1564,7 +1564,7 @@ export const jobOpenings = [
   {
     title: 'Fountain Installer (MEM)',
     id: '618df5dd006c779531961405',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1573,7 +1573,7 @@ export const jobOpenings = [
   {
     title: 'Technician - Quality Control Sucrose',
     id: '618df5c9006c77953195e235',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -1582,7 +1582,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser Full-time/Days',
     id: '618df5b4006c77953195b030',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1591,7 +1591,7 @@ export const jobOpenings = [
   {
     title: 'Logistics Distribution & Transportation Coordinator',
     id: '618df584006c779531953e2f',
-    categories: [
+    departments: [
       'management',
       'operations'
     ],
@@ -1601,7 +1601,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-Time/Days)',
     id: '618df533006c779531948729',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1610,7 +1610,7 @@ export const jobOpenings = [
   {
     title: 'Operations Data Lead',
     id: '618df523006c779531945e44',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'operations'
@@ -1621,7 +1621,7 @@ export const jobOpenings = [
   {
     title: 'Van Field Sales Representative - London',
     id: '618df51a006c779531944ba1',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -1630,7 +1630,7 @@ export const jobOpenings = [
   {
     title: 'Part-Time Merchandiser - Edmonton',
     id: '618df4e3006c77953193db17',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1639,7 +1639,7 @@ export const jobOpenings = [
   {
     title: 'Merchandising Team Lead, Jacksonville',
     id: '618df496006c779531932896',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -1648,7 +1648,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) - Nights',
     id: '618df47f006c77953192f2a1',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1657,7 +1657,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Permit',
     id: '618df44a006c779531926d14',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1666,7 +1666,7 @@ export const jobOpenings = [
   {
     title: 'SC Quality Control Assoc Technician',
     id: '618df439006c779531924484',
-    categories: [
+    departments: [
       'engineering',
       'quality_assurance'
     ],
@@ -1676,7 +1676,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver Trainee GeoBox (CDL Required)',
     id: '618df42e006c779531922759',
-    categories: [
+    departments: [
       'internship',
       'manual_work'
     ],
@@ -1686,7 +1686,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Required',
     id: '618df42d006c7795319225ee',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1695,7 +1695,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Seasonal)',
     id: '618df421006c779531920a54',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1704,7 +1704,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (FT/Days)',
     id: '618df41e006c77953192033a',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1713,7 +1713,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618df411006c77953191e2b3',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1722,7 +1722,7 @@ export const jobOpenings = [
   {
     title: 'OT CyberSecurity Risk & Compliance for Supply Chain',
     id: '618df3f2006c779531919abd',
-    categories: [
+    departments: [
       'finance',
       'purchasing'
     ],
@@ -1732,7 +1732,7 @@ export const jobOpenings = [
   {
     title: 'Supply Chain Fleet Safety Manager',
     id: '618df3dd006c77953191685a',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -1742,7 +1742,7 @@ export const jobOpenings = [
   {
     title: 'Customer Management Analyst with French',
     id: '618df3db006c77953191648a',
-    categories: [
+    departments: [
       'data_analysis',
       'management'
     ],
@@ -1752,7 +1752,7 @@ export const jobOpenings = [
   {
     title: 'Senior Manager, Global Foods Group Strategy',
     id: '618df3d8006c779531915c45',
-    categories: [
+    departments: [
       'consulting',
       'management'
     ],
@@ -1762,7 +1762,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Worker',
     id: '618df3cd006c779531914259',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1771,7 +1771,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618df3b2006c7795319101a3',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1780,14 +1780,14 @@ export const jobOpenings = [
   {
     title: 'İçecek Geleneksel Kanal Satış Şefi (Edremit/Balıkesir)',
     id: '618df395006c77953190bdee',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/252503BR?lang=tr-tr&previousLocale=en-US'
   },
   {
     title: 'Production Engineer - Tanash Plant - Snacks',
     id: '618df373006c779531906c10',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -1796,7 +1796,7 @@ export const jobOpenings = [
   {
     title: 'Production Supervisor',
     id: '618df35b006c7795319031cf',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -1806,7 +1806,7 @@ export const jobOpenings = [
   {
     title: 'Revenue Management Analyst',
     id: '618df35a006c779531902f73',
-    categories: [
+    departments: [
       'data_analysis',
       'finance',
       'management'
@@ -1817,7 +1817,7 @@ export const jobOpenings = [
   {
     title: 'Transport Driver (tractor trailer) - Evenings/CDL A',
     id: '618df357006c7795319027dd',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1826,7 +1826,7 @@ export const jobOpenings = [
   {
     title: 'Product Management Sr Director',
     id: '618df334006c7795318fd623',
-    categories: [
+    departments: [
       'directors',
       'education',
       'management',
@@ -1838,7 +1838,7 @@ export const jobOpenings = [
   {
     title: 'Director of Global Foods Packaging R&D- materials & standards',
     id: '618df325006c7795318fb224',
-    categories: [
+    departments: [
       'directors',
       'education',
       'research'
@@ -1849,7 +1849,7 @@ export const jobOpenings = [
   {
     title: 'Engineeering Quality Control Senior Analyst',
     id: '618df2f3006c7795318f3fd4',
-    categories: [
+    departments: [
       'data_analysis',
       'quality_assurance'
     ],
@@ -1859,7 +1859,7 @@ export const jobOpenings = [
   {
     title: 'Project Manager - Global Finance Control and Reporting',
     id: '618df2dd006c7795318f0ce4',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -1868,7 +1868,7 @@ export const jobOpenings = [
   {
     title: 'IT Sr Business Analyst',
     id: '618df2cd006c7795318eea4b',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology'
     ],
@@ -1878,7 +1878,7 @@ export const jobOpenings = [
   {
     title: 'Fruit General Labor (Tropicana) Seasonal',
     id: '618df291006c7795318e5c85',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -1888,7 +1888,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - SEASONAL',
     id: '618df283006c7795318e3d2c',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1897,7 +1897,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618df247006c7795318dbc6b',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -1906,7 +1906,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Vending and Fountain Equipment-CDL A/FT',
     id: '618df237006c7795318d94bd',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -1916,7 +1916,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)-FT/Evenings',
     id: '618df21a006c7795318d4f9d',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1925,7 +1925,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Convenience/Gas',
     id: '618df208006c7795318d26b8',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -1934,7 +1934,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (Full-time/Nights)',
     id: '618df200006c7795318d1202',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -1943,7 +1943,7 @@ export const jobOpenings = [
   {
     title: 'Marketing Creative Support Analyst - Lays',
     id: '618df1f3006c7795318cf2e3',
-    categories: [
+    departments: [
       'data_analysis',
       'marketing',
       'support'
@@ -1954,7 +1954,7 @@ export const jobOpenings = [
   {
     title: 'Manufacturing Support Coordinator',
     id: '618df1ef006c7795318cea22',
-    categories: [
+    departments: [
       'engineering',
       'management',
       'support'
@@ -1965,7 +1965,7 @@ export const jobOpenings = [
   {
     title: 'Global Procurement Sr Manager, Bottles and Resin',
     id: '618df1e8006c7795318cd9d1',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -1975,7 +1975,7 @@ export const jobOpenings = [
   {
     title: 'Route Sales Representative - Edmonton',
     id: '618df1ce006c7795318ca0f5',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -1984,7 +1984,7 @@ export const jobOpenings = [
   {
     title: 'Data Science Manager',
     id: '618df1b8006c7795318c6c92',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'management',
@@ -1996,7 +1996,7 @@ export const jobOpenings = [
   {
     title: 'LD&T Administrative Support / Scheduler',
     id: '618df1ac006c7795318c5114',
-    categories: [
+    departments: [
       'administration',
       'support'
     ],
@@ -2006,7 +2006,7 @@ export const jobOpenings = [
   {
     title: 'R&D Ana. Tech. Scientist, Analytical Science',
     id: '618df1a7006c7795318c4681',
-    categories: [
+    departments: [
       'research'
     ],
     isClosed: false,
@@ -2015,14 +2015,14 @@ export const jobOpenings = [
   {
     title: 'Yard Jockey',
     id: '618df190006c7795318c1295',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000779911606?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Full-Time Merchandiser - Okotoks',
     id: '618df174006c7795318bced9',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -2031,7 +2031,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) - Evenings',
     id: '618df14b006c7795318b7382',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2040,7 +2040,7 @@ export const jobOpenings = [
   {
     title: 'HR Manager/Multi-Site Leader',
     id: '618df129006c7795318b2726',
-    categories: [
+    departments: [
       'human_resources',
       'management'
     ],
@@ -2050,7 +2050,7 @@ export const jobOpenings = [
   {
     title: 'SC Fleet Asst Coordinator - October plant',
     id: '618df0fa006c7795318abcf1',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -2059,7 +2059,7 @@ export const jobOpenings = [
   {
     title: 'Supply Chain Co-op/Intern',
     id: '618df0df006c7795318a7c19',
-    categories: [
+    departments: [
       'internship',
       'purchasing'
     ],
@@ -2069,7 +2069,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618df0be006c7795318a30a2',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -2078,7 +2078,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Local Delivery Driver Trainee - CDL B PERMIT',
     id: '618df0a4006c77953189f168',
-    categories: [
+    departments: [
       'internship',
       'manual_work'
     ],
@@ -2088,7 +2088,7 @@ export const jobOpenings = [
   {
     title: 'Production Supervisor',
     id: '618df09b006c77953189dad9',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -2098,7 +2098,7 @@ export const jobOpenings = [
   {
     title: 'Data Stewardship Lead',
     id: '618df094006c77953189c974',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology'
     ],
@@ -2108,7 +2108,7 @@ export const jobOpenings = [
   {
     title: 'Control & Reporting Supervisor',
     id: '618df091006c77953189c1e1',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -2117,7 +2117,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Merchandiser - Days',
     id: '618df03c006c77953188fd0c',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -2126,7 +2126,7 @@ export const jobOpenings = [
   {
     title: 'Commercial Executive Assistant',
     id: '618df019006c77953188aa48',
-    categories: [
+    departments: [
       'administration',
       'directors',
       'support'
@@ -2137,7 +2137,7 @@ export const jobOpenings = [
   {
     title: 'SAP Forecast to Schedule & Inventory Optimization Manager',
     id: '618defe5006c77953188402d',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -2146,7 +2146,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618defe2006c77953188375e',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2155,7 +2155,7 @@ export const jobOpenings = [
   {
     title: 'DMO Transformation Associate Manager, International',
     id: '618defd1006c779531880f96',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -2164,7 +2164,7 @@ export const jobOpenings = [
   {
     title: 'Sr. Program Manager, NA Supply Chain Transformation',
     id: '618def9d006c779531879458',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -2174,7 +2174,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-Time/Rotating Shifts)',
     id: '618def94006c779531877f81',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -2183,7 +2183,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-time)',
     id: '618def64006c7795318709b4',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -2192,7 +2192,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Operations - Part Time/Evenings',
     id: '618def54006c77953186e291',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -2202,7 +2202,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (Full-time)',
     id: '618def4b006c77953186ca84',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2211,7 +2211,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Geo Delivery (Box Truck) FT/Days/CDL A Permit',
     id: '618def3c006c77953186a735',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2220,7 +2220,7 @@ export const jobOpenings = [
   {
     title: 'Entry-Level Truck Mechanic (CDL A permit)',
     id: '618def22006c779531866a5a',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2229,14 +2229,14 @@ export const jobOpenings = [
   {
     title: 'SAP Ariba Lead',
     id: '618def1b006c779531865aac',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/251724BR?lang=en-mx&previousLocale=en-US'
   },
   {
     title: 'Strategy Associate Manager',
     id: '618def15006c779531864b33',
-    categories: [
+    departments: [
       'consulting',
       'finance',
       'management'
@@ -2247,7 +2247,7 @@ export const jobOpenings = [
   {
     title: 'Back-End Engineer',
     id: '618deec4006c779531858571',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -2256,7 +2256,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Part-time',
     id: '618dee82006c77953184ea38',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -2265,7 +2265,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Convenience/Gas (FT/Days)',
     id: '618dee74006c77953184c78b',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -2274,7 +2274,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618dee4a006c779531846629',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -2283,7 +2283,7 @@ export const jobOpenings = [
   {
     title: 'Local Deliver Driver - CDL A',
     id: '618dee12006c77953183e307',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2292,7 +2292,7 @@ export const jobOpenings = [
   {
     title: 'Email Designer',
     id: '618dedf1006c779531839613',
-    categories: [
+    departments: [
       'design'
     ],
     isClosed: false,
@@ -2301,7 +2301,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dedd3006c779531835680',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2310,7 +2310,7 @@ export const jobOpenings = [
   {
     title: 'Fountain Installer (CDL A Required)',
     id: '618dedcb006c7795318343dd',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2319,7 +2319,7 @@ export const jobOpenings = [
   {
     title: 'Autonomous Maintenance (AM) Pillar Resource',
     id: '618dedc7006c779531833ada',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2328,7 +2328,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician-CDL A Permit',
     id: '618deda0006c77953182df76',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -2338,7 +2338,7 @@ export const jobOpenings = [
   {
     title: 'Sales District Leader - Misr el Gedida DC, Snacks',
     id: '618ded64006c77953182687d',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -2348,7 +2348,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver Trainee GeoBox - CDL A Permit',
     id: '618ded5f006c779531825aa8',
-    categories: [
+    departments: [
       'internship',
       'manual_work'
     ],
@@ -2358,7 +2358,7 @@ export const jobOpenings = [
   {
     title: 'Process Operator',
     id: '618ded54006c779531824346',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2367,7 +2367,7 @@ export const jobOpenings = [
   {
     title: 'Sales Support Associate',
     id: '618ded35006c77953181fc7e',
-    categories: [
+    departments: [
       'sales',
       'support'
     ],
@@ -2377,7 +2377,7 @@ export const jobOpenings = [
   {
     title: 'Marketing Manager, GFG Breakthrough Innovation China HUB; 市场经理,全球食品品类创新中国区',
     id: '618ded19006c77953181bc02',
-    categories: [
+    departments: [
       'management',
       'marketing'
     ],
@@ -2387,7 +2387,7 @@ export const jobOpenings = [
   {
     title: 'R&D Product Development Senior Technician',
     id: '618ded0e006c77953181a25e',
-    categories: [
+    departments: [
       'engineering',
       'product_management',
       'research'
@@ -2398,7 +2398,7 @@ export const jobOpenings = [
   {
     title: 'Route Sales Representative - Moose Jaw (6 month contract)',
     id: '618ded06006c77953181931a',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -2407,7 +2407,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Required',
     id: '618ded05006c779531819024',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2416,7 +2416,7 @@ export const jobOpenings = [
   {
     title: 'Stage - Assistant Animation des ventes GMS et AFH H/F',
     id: '618decd3006c779531811b5b',
-    categories: [
+    departments: [
       'sales',
       'support'
     ],
@@ -2426,7 +2426,7 @@ export const jobOpenings = [
   {
     title: 'Environmental Operations Supervisor',
     id: '618decc1006c77953180f526',
-    categories: [
+    departments: [
       'management',
       'operations'
     ],
@@ -2436,7 +2436,7 @@ export const jobOpenings = [
   {
     title: 'PT Merchandiser - Servicing Rangeley Area - Wed/Sat',
     id: '618dec93006c7795318083e9',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -2445,7 +2445,7 @@ export const jobOpenings = [
   {
     title: 'Design Sr Manager',
     id: '618dec70006c77953180309e',
-    categories: [
+    departments: [
       'design',
       'management'
     ],
@@ -2455,7 +2455,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Operations',
     id: '618dec6c006c7795318028bd',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -2465,7 +2465,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (Level 3)',
     id: '618dec5c006c7795318001d3',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -2475,14 +2475,14 @@ export const jobOpenings = [
   {
     title: 'Reset Specialist (Seasonal)',
     id: '618dec50006c7795317fe359',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000776751706?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Manufacturing Associate Supervisor',
     id: '618dec4e006c7795317fdf93',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -2492,7 +2492,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618dec23006c7795317f803a',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -2501,7 +2501,7 @@ export const jobOpenings = [
   {
     title: 'Supply Chain Senior Manager - Fleet',
     id: '618dec04006c7795317f32ee',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -2511,7 +2511,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Grove City, New Castle, Elwood City)',
     id: '618debdb006c7795317ed466',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -2520,7 +2520,7 @@ export const jobOpenings = [
   {
     title: 'Part Time Merchandiser - Days',
     id: '618debc2006c7795317e9806',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -2529,7 +2529,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Full Service/Vending Product Delivery',
     id: '618deb89006c7795317e15aa',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2538,7 +2538,7 @@ export const jobOpenings = [
   {
     title: 'Scale House Attendant - Mfg Assoc Coordinator',
     id: '618deb5f006c7795317dbb6f',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -2547,7 +2547,7 @@ export const jobOpenings = [
   {
     title: 'R&D Scientist - Spec Writer',
     id: '618deb5b006c7795317db22a',
-    categories: [
+    departments: [
       'research'
     ],
     isClosed: false,
@@ -2556,7 +2556,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician Trainee (MEM)',
     id: '618deb44006c7795317d7aeb',
-    categories: [
+    departments: [
       'engineering',
       'internship',
       'support'
@@ -2567,7 +2567,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618deb3f006c7795317d6e3b',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2576,7 +2576,7 @@ export const jobOpenings = [
   {
     title: 'Representant des ventes',
     id: '618deb32006c7795317d4f60',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -2585,7 +2585,7 @@ export const jobOpenings = [
   {
     title: 'Mechanic - Fleet (NO CDL) - SIGN ON BONUS',
     id: '618deb24006c7795317d2fb6',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2594,7 +2594,7 @@ export const jobOpenings = [
   {
     title: 'Sales District Leader Designate - Ocala, FL',
     id: '618dea94006c7795317beeb0',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -2604,7 +2604,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver - CDL A Required',
     id: '618dea8b006c7795317bda77',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2613,7 +2613,7 @@ export const jobOpenings = [
   {
     title: 'Data Analysis & Reporting Analyst',
     id: '618dea8a006c7795317bd8d2',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology'
     ],
@@ -2623,7 +2623,7 @@ export const jobOpenings = [
   {
     title: 'SC Quality Control Associate - Menia plant',
     id: '618dea7c006c7795317bb78a',
-    categories: [
+    departments: [
       'quality_assurance'
     ],
     isClosed: false,
@@ -2632,7 +2632,7 @@ export const jobOpenings = [
   {
     title: 'Accounting Operations Associate Analyst (Bilingual-French/English)',
     id: '618dea7b006c7795317bb380',
-    categories: [
+    departments: [
       'data_analysis',
       'finance',
       'operations'
@@ -2643,7 +2643,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dea70006c7795317b99b6',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2652,7 +2652,7 @@ export const jobOpenings = [
   {
     title: 'Part Time - Associate Admin Assistant (Settlement)',
     id: '618dea61006c7795317b76f1',
-    categories: [
+    departments: [
       'administration',
       'support'
     ],
@@ -2662,7 +2662,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - Relief Schedule - CDL A Required',
     id: '618dea5e006c7795317b6ef8',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2671,7 +2671,7 @@ export const jobOpenings = [
   {
     title: 'Technician - Quality Control (Full-time)',
     id: '618dea44006c7795317b3556',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -2680,7 +2680,7 @@ export const jobOpenings = [
   {
     title: 'Retail Sales Force Lead',
     id: '618dea2e006c7795317b057b',
-    categories: [
+    departments: [
       'sales',
       'manual_work'
     ],
@@ -2690,7 +2690,7 @@ export const jobOpenings = [
   {
     title: 'R&D Technologist – BFY 12 up to 18 month fixed term contract',
     id: '618dea24006c7795317aed12',
-    categories: [
+    departments: [
       'research'
     ],
     isClosed: false,
@@ -2699,7 +2699,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) - Nights',
     id: '618dea22006c7795317ae856',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2708,7 +2708,7 @@ export const jobOpenings = [
   {
     title: 'Operations Warehouse Manager',
     id: '618dea1c006c7795317ad80e',
-    categories: [
+    departments: [
       'management',
       'operations',
       'manual_work'
@@ -2719,7 +2719,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Part Time',
     id: '618dea15006c7795317acbf2',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -2728,7 +2728,7 @@ export const jobOpenings = [
   {
     title: 'Night shift Operator',
     id: '618dea07006c7795317aab31',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2737,7 +2737,7 @@ export const jobOpenings = [
   {
     title: 'Technician - Quality Control-Nights',
     id: '618de9db006c7795317a4356',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -2746,7 +2746,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician - CDL A',
     id: '618de9d3006c7795317a330e',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -2755,7 +2755,7 @@ export const jobOpenings = [
   {
     title: 'Geo Delivery Driver-CDL A',
     id: '618de9b4006c77953179f1e5',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2764,7 +2764,7 @@ export const jobOpenings = [
   {
     title: 'Packaging Machine Operator - $23.85/HR',
     id: '618de9ae006c77953179e479',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2773,7 +2773,7 @@ export const jobOpenings = [
   {
     title: 'Sales Leadership Program - Winnipeg',
     id: '618de9ac006c77953179dee1',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -2782,7 +2782,7 @@ export const jobOpenings = [
   {
     title: 'Global Procurement Sr Manager, Commodities (Energy)',
     id: '618de97f006c7795317979a5',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -2792,7 +2792,7 @@ export const jobOpenings = [
   {
     title: 'Mfg Asst Supervisor - Obour Plant',
     id: '618de961006c779531793259',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -2801,7 +2801,7 @@ export const jobOpenings = [
   {
     title: 'Shopper Insight Manager – Philippines PO1 & GMD Asia',
     id: '618de949006c77953178fa71',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -2810,7 +2810,7 @@ export const jobOpenings = [
   {
     title: 'Data Governance and Quality LEAD',
     id: '618de942006c77953178eb45',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'quality_assurance'
@@ -2821,7 +2821,7 @@ export const jobOpenings = [
   {
     title: 'Full-time Warehouse Person (Loader)- Nights',
     id: '618de941006c77953178ea16',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2830,7 +2830,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Servicing Lexington/Kearny area',
     id: '618de93d006c77953178e0a8',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -2839,7 +2839,7 @@ export const jobOpenings = [
   {
     title: 'Local Relief Driver (CDL A)',
     id: '618de93c006c77953178dcc6',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2848,7 +2848,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (2nd Shift/Full-time)',
     id: '618de911006c7795317873cb',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2857,7 +2857,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver',
     id: '618de8e9006c779531781b3c',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2866,7 +2866,7 @@ export const jobOpenings = [
   {
     title: 'Technician - Quality Control (Evenings)',
     id: '618de8be006c77953177be43',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -2875,7 +2875,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Convenience/Gas (FT/Days)',
     id: '618de8ba006c77953177b2de',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -2884,7 +2884,7 @@ export const jobOpenings = [
   {
     title: 'Transformation & Control Jr. Manager',
     id: '618de8b9006c77953177b208',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -2893,7 +2893,7 @@ export const jobOpenings = [
   {
     title: 'eCom Senior Business Intelligence Engineer',
     id: '618de8b1006c779531779e5a',
-    categories: [
+    departments: [
       'data_analysis',
       'engineering'
     ],
@@ -2903,7 +2903,7 @@ export const jobOpenings = [
   {
     title: 'SC Quality Control Tech',
     id: '618de8a0006c779531777663',
-    categories: [
+    departments: [
       'quality_assurance'
     ],
     isClosed: false,
@@ -2912,7 +2912,7 @@ export const jobOpenings = [
   {
     title: 'Multi Skilled Engineer - Days Based (Global Process Centre)',
     id: '618de89a006c7795317767a8',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -2921,7 +2921,7 @@ export const jobOpenings = [
   {
     title: 'Sr Analyst, Software Engineering',
     id: '618de84c006c77953176bfd6',
-    categories: [
+    departments: [
       'data_analysis',
       'engineering'
     ],
@@ -2931,14 +2931,14 @@ export const jobOpenings = [
   {
     title: 'Specjalista ds. rozliczeń produkcji',
     id: '618de82f006c779531767c44',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/251281BR?lang=pl-pl&previousLocale=en-US'
   },
   {
     title: 'Part-time Merchandiser- Evenings',
     id: '618de7d7006c77953175aa8d',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -2947,7 +2947,7 @@ export const jobOpenings = [
   {
     title: 'Incident Response Senior Manager',
     id: '618de7b9006c77953175604a',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -2956,7 +2956,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) Rotating Shifts',
     id: '618de7a6006c779531753466',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -2965,7 +2965,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Convenience/Gas',
     id: '618de79e006c779531752263',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -2974,7 +2974,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Days/CDL A Permit)',
     id: '618de767006c77953174a117',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -2983,7 +2983,7 @@ export const jobOpenings = [
   {
     title: 'Unit General Manager- Designate, Jacksonville',
     id: '618de719006c77953173eecc',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -2992,7 +2992,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Part-time in Dilkon, AZ',
     id: '618de702006c77953173b8e1',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3001,7 +3001,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-Time) Angels Camp, San Andreas, Valley Springs)',
     id: '618de700006c77953173b50f',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3010,7 +3010,7 @@ export const jobOpenings = [
   {
     title: 'IT Field Services Specialist – GBS Kraków',
     id: '618de6ee006c779531738bb2',
-    categories: [
+    departments: [
       'information_technology'
     ],
     isClosed: false,
@@ -3019,7 +3019,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) Part-Time/Evenings/Seasonal',
     id: '618de6b7006c779531730bd5',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3028,7 +3028,7 @@ export const jobOpenings = [
   {
     title: 'Head of UX Design, Europe eCommerce',
     id: '618de683006c779531729498',
-    categories: [
+    departments: [
       'design',
       'management'
     ],
@@ -3038,7 +3038,7 @@ export const jobOpenings = [
   {
     title: 'Production Supervisor',
     id: '618de671006c779531727116',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -3048,7 +3048,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - GeoBox (CDL A Required)',
     id: '618de654006c77953172307b',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3057,7 +3057,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Required',
     id: '618de639006c77953171f3d6',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3066,7 +3066,7 @@ export const jobOpenings = [
   {
     title: 'Data Governance Manager, EMENA',
     id: '618de607006c779531718dab',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'management'
@@ -3077,7 +3077,7 @@ export const jobOpenings = [
   {
     title: 'Service Design Sr. Director',
     id: '618de5e8006c779531714b48',
-    categories: [
+    departments: [
       'design',
       'directors',
       'education',
@@ -3089,7 +3089,7 @@ export const jobOpenings = [
   {
     title: 'SC Quality Control Associate - October plant',
     id: '618de5c7006c77953171011e',
-    categories: [
+    departments: [
       'quality_assurance'
     ],
     isClosed: false,
@@ -3098,7 +3098,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Large Grocery/Mass Merch',
     id: '618de5b6006c77953170da11',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -3107,7 +3107,7 @@ export const jobOpenings = [
   {
     title: 'Weekend Part Time Merchandiser - WASAGA/COLLINGWOOD',
     id: '618de59f006c77953170a0ae',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3116,7 +3116,7 @@ export const jobOpenings = [
   {
     title: 'Fountain Installer (D10K)',
     id: '618de58e006c779531707495',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3125,7 +3125,7 @@ export const jobOpenings = [
   {
     title: 'Commercial Finance Analyst - 8 month contract',
     id: '618de572006c7795317033dd',
-    categories: [
+    departments: [
       'data_analysis',
       'finance'
     ],
@@ -3135,7 +3135,7 @@ export const jobOpenings = [
   {
     title: 'Administrative Coordinator- Transport',
     id: '618de549006c7795316fd043',
-    categories: [
+    departments: [
       'administration',
       'management'
     ],
@@ -3145,7 +3145,7 @@ export const jobOpenings = [
   {
     title: 'Maint/Eng Technician',
     id: '618de510006c7795316f4977',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -3154,7 +3154,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Local Delivery (CDL A)',
     id: '618de502006c7795316f27f5',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3163,7 +3163,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (PT/Rotating Shifts)',
     id: '618de501006c7795316f2523',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3172,7 +3172,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Required',
     id: '618de4f4006c7795316f0711',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3181,7 +3181,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618de4db006c7795316ecc4d',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3190,7 +3190,7 @@ export const jobOpenings = [
   {
     title: 'Fountain Installer',
     id: '618de493006c7795316e2490',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3199,7 +3199,7 @@ export const jobOpenings = [
   {
     title: 'Part Time Merchandiser - OTTAWA WEST',
     id: '618de487006c7795316e0385',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3208,7 +3208,7 @@ export const jobOpenings = [
   {
     title: 'Technician - Quality Control-Days',
     id: '618de475006c7795316ddc31',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -3217,7 +3217,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (MEM) (Full-time)',
     id: '618de467006c7795316dbc07',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -3227,7 +3227,7 @@ export const jobOpenings = [
   {
     title: 'Marketing Supervisor, EP;市场主管,膨化类',
     id: '618de44e006c7795316d8068',
-    categories: [
+    departments: [
       'management',
       'marketing'
     ],
@@ -3237,7 +3237,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)-PT/Evenings',
     id: '618de43a006c7795316d4f33',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3246,7 +3246,7 @@ export const jobOpenings = [
   {
     title: 'Application Architect Sr. Director',
     id: '618de434006c7795316d41fa',
-    categories: [
+    departments: [
       'design',
       'directors',
       'education'
@@ -3257,7 +3257,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)',
     id: '618de420006c7795316d161d',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3266,7 +3266,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618de3d6006c7795316c70f5',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3275,7 +3275,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Operations',
     id: '618de3d1006c7795316c637f',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -3285,7 +3285,7 @@ export const jobOpenings = [
   {
     title: 'Production Operator',
     id: '618de3c5006c7795316c489f',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -3295,7 +3295,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production',
     id: '618de3ae006c7795316c1119',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -3305,7 +3305,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Trainee - CDL A PERMIT',
     id: '618de338006c7795316b1528',
-    categories: [
+    departments: [
       'internship'
     ],
     isClosed: false,
@@ -3314,7 +3314,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618de320006c7795316ae026',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3323,7 +3323,7 @@ export const jobOpenings = [
   {
     title: 'Stage - Assistant IT & Amélioration continue H/F',
     id: '618de319006c7795316ad2f0',
-    categories: [
+    departments: [
       'information_technology',
       'support'
     ],
@@ -3333,7 +3333,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Required',
     id: '618de30f006c7795316aba07',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3342,7 +3342,7 @@ export const jobOpenings = [
   {
     title: 'Research & Development Principal Scientist',
     id: '618de30f006c7795316ab96f',
-    categories: [
+    departments: [
       'education',
       'research'
     ],
@@ -3352,7 +3352,7 @@ export const jobOpenings = [
   {
     title: 'Sr E-commerce Activation Manager',
     id: '618de306006c7795316aa6b7',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -3361,7 +3361,7 @@ export const jobOpenings = [
   {
     title: 'Data Steward Sr. Analyst, Material',
     id: '618de2f0006c7795316a7055',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'food'
@@ -3372,7 +3372,7 @@ export const jobOpenings = [
   {
     title: 'Principal ML Engineer',
     id: '618de2a8006c77953169cdd3',
-    categories: [
+    departments: [
       'education',
       'engineering'
     ],
@@ -3382,7 +3382,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Operations (Seasonal/Rotating Shifts)',
     id: '618de28b006c779531698b9b',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -3392,7 +3392,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver - CDL A',
     id: '618de25a006c779531691c94',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3401,7 +3401,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician Trainee (MEM)',
     id: '618de23b006c77953168dc21',
-    categories: [
+    departments: [
       'engineering',
       'internship',
       'support'
@@ -3412,7 +3412,7 @@ export const jobOpenings = [
   {
     title: 'Operator wózka widłowego w magazynie',
     id: '618de23b006c77953168dba4',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3421,7 +3421,7 @@ export const jobOpenings = [
   {
     title: 'Packing Machine Operator - Weekend Night Shift',
     id: '618de230006c77953168bfba',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3430,7 +3430,7 @@ export const jobOpenings = [
   {
     title: 'Sales District Leader, Cherryville',
     id: '618de215006c779531688289',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -3440,7 +3440,7 @@ export const jobOpenings = [
   {
     title: 'Weekend Part Time Merchandiser - MIDLAND',
     id: '618de207006c779531686358',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3449,7 +3449,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Large Grocery/Mass Merch',
     id: '618de1d1006c77953167e4b5',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -3458,7 +3458,7 @@ export const jobOpenings = [
   {
     title: 'R&D SRA Assoc Scientist - up to 12 month contract',
     id: '618de1b7006c77953167a774',
-    categories: [
+    departments: [
       'research'
     ],
     isClosed: false,
@@ -3467,7 +3467,7 @@ export const jobOpenings = [
   {
     title: 'IT Finance Analyst',
     id: '618de1ac006c779531678d0a',
-    categories: [
+    departments: [
       'data_analysis',
       'finance',
       'information_technology'
@@ -3478,7 +3478,7 @@ export const jobOpenings = [
   {
     title: 'Technician - Quality Control Nights',
     id: '618de1a5006c779531677c92',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -3487,7 +3487,7 @@ export const jobOpenings = [
   {
     title: 'Seasonal Warehouse Order Picker - Surrey',
     id: '618de158006c77953166caee',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3496,7 +3496,7 @@ export const jobOpenings = [
   {
     title: 'Senior Threat Researcher',
     id: '618de146006c77953166a0c9',
-    categories: [
+    departments: [
       'research'
     ],
     isClosed: false,
@@ -3505,7 +3505,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) Full-Time/Rotating Shifts',
     id: '618de145006c779531669fd9',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3514,7 +3514,7 @@ export const jobOpenings = [
   {
     title: 'Architect, Spring, Microservices, PCF',
     id: '618de13c006c779531668bf5',
-    categories: [
+    departments: [
       'design'
     ],
     isClosed: false,
@@ -3523,7 +3523,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Supervisor',
     id: '618de0ff006c7795316609ed',
-    categories: [
+    departments: [
       'management',
       'manual_work'
     ],
@@ -3533,7 +3533,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Supervisor',
     id: '618de0fd006c7795316604e8',
-    categories: [
+    departments: [
       'management',
       'manual_work'
     ],
@@ -3543,7 +3543,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Operations',
     id: '618de0f7006c77953165f756',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -3553,7 +3553,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver Trainee - CDL A Permit',
     id: '618de0ca006c779531658a89',
-    categories: [
+    departments: [
       'internship',
       'manual_work'
     ],
@@ -3563,7 +3563,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Supervisor',
     id: '618de0bc006c77953165689c',
-    categories: [
+    departments: [
       'management',
       'manual_work'
     ],
@@ -3573,7 +3573,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver Trainee -Class A CDL Permit',
     id: '618de0ba006c77953165641d',
-    categories: [
+    departments: [
       'internship',
       'manual_work'
     ],
@@ -3583,7 +3583,7 @@ export const jobOpenings = [
   {
     title: 'Manufacturing Associate Supervisor',
     id: '618de087006c77953164e8b4',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -3593,7 +3593,7 @@ export const jobOpenings = [
   {
     title: 'Principal ML Engineer',
     id: '618de05e006c779531648789',
-    categories: [
+    departments: [
       'education',
       'engineering'
     ],
@@ -3603,7 +3603,7 @@ export const jobOpenings = [
   {
     title: 'Forklift Operator (Full-time/ Evenings)',
     id: '618de03d006c779531643706',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3612,7 +3612,7 @@ export const jobOpenings = [
   {
     title: 'Sr. Manager, Log Analytics Engineer',
     id: '618de039006c779531642e1f',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -3622,7 +3622,7 @@ export const jobOpenings = [
   {
     title: 'Senior Warehouse Manager',
     id: '618de02f006c77953164129b',
-    categories: [
+    departments: [
       'management',
       'manual_work'
     ],
@@ -3632,7 +3632,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician Trainee (MEM)',
     id: '618de01f006c77953163f009',
-    categories: [
+    departments: [
       'engineering',
       'internship',
       'support'
@@ -3643,7 +3643,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Relief Schedule GeoBox - CDL A Required',
     id: '618ddfd9006c779531634e71',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3652,7 +3652,7 @@ export const jobOpenings = [
   {
     title: 'Supply Chain Leader',
     id: '618ddfcc006c779531632ed6',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -3662,7 +3662,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician Trainee (MEM) Wed-Sun Schedule',
     id: '618ddfac006c77953162e625',
-    categories: [
+    departments: [
       'engineering',
       'internship',
       'support'
@@ -3673,7 +3673,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618ddf70006c779531625ade',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3682,7 +3682,7 @@ export const jobOpenings = [
   {
     title: 'PT Temporary Coordinator',
     id: '618ddf6f006c77953162594b',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -3691,7 +3691,7 @@ export const jobOpenings = [
   {
     title: 'Revenue Management Coordinator',
     id: '618ddf65006c7795316242fd',
-    categories: [
+    departments: [
       'finance',
       'management'
     ],
@@ -3701,7 +3701,7 @@ export const jobOpenings = [
   {
     title: 'R&D Packaging Engineer',
     id: '618ddf3e006c77953161e847',
-    categories: [
+    departments: [
       'engineering',
       'research'
     ],
@@ -3711,7 +3711,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618ddf31006c77953161cada',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3720,7 +3720,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - Nights',
     id: '618ddf12006c779531618403',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3729,7 +3729,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Jamestown, ND',
     id: '618ddf05006c77953161684e',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3738,7 +3738,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Full time)',
     id: '618ddef2006c779531614062',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3747,7 +3747,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Seasonal)',
     id: '618ddeee006c779531613656',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3756,14 +3756,14 @@ export const jobOpenings = [
   {
     title: 'Agile Coach',
     id: '618ddedf006c7795316112b0',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/245488BR?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Merchandiser - Wahpeton, ND',
     id: '618ddecc006c77953160ea9e',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3772,7 +3772,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL B',
     id: '618ddeca006c77953160e57a',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3781,7 +3781,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Transport Driver (tractor trailer) (FT/CDL A Required) 9101/Home Daily',
     id: '618ddea7006c779531609974',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3790,7 +3790,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) Full-Time/Evenings',
     id: '618dde9a006c779531607eda',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3799,7 +3799,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser/Stocker (Full-time)',
     id: '618dde99006c779531607d0e',
-    categories: [
+    departments: [
       'purchasing',
       'manual_work'
     ],
@@ -3809,7 +3809,7 @@ export const jobOpenings = [
   {
     title: 'Technician - Quality Control (Full-time/Nights)',
     id: '618dde96006c779531607756',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -3818,7 +3818,7 @@ export const jobOpenings = [
   {
     title: 'HR Senior Representative',
     id: '618dde62006c77953160037a',
-    categories: [
+    departments: [
       'human_resources'
     ],
     isClosed: false,
@@ -3827,7 +3827,7 @@ export const jobOpenings = [
   {
     title: 'Data Governance Specialist, LATAM',
     id: '618dde09006c7795315f2fcb',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology'
     ],
@@ -3837,7 +3837,7 @@ export const jobOpenings = [
   {
     title: 'Fountain Installer',
     id: '618dddf7006c7795315f0624',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3846,7 +3846,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Relief Schedule (CDL Required) (Full time)',
     id: '618dddbd006c7795315e7d58',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3855,7 +3855,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618ddd81006c7795315df067',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3864,7 +3864,7 @@ export const jobOpenings = [
   {
     title: 'SC Agro Asst Supervisor',
     id: '618ddd7d006c7795315de6e0',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -3873,7 +3873,7 @@ export const jobOpenings = [
   {
     title: 'Senior Data Scientist',
     id: '618ddd66006c7795315db1b1',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'research'
@@ -3884,7 +3884,7 @@ export const jobOpenings = [
   {
     title: 'Finance Supervisor',
     id: '618ddd62006c7795315da843',
-    categories: [
+    departments: [
       'finance',
       'management'
     ],
@@ -3894,7 +3894,7 @@ export const jobOpenings = [
   {
     title: 'Transport Driver (tractor trailer) - CDL A',
     id: '618ddd50006c7795315d7d65',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -3903,7 +3903,7 @@ export const jobOpenings = [
   {
     title: 'Technician - Quality Control',
     id: '618ddd20006c7795315d0c24',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -3912,21 +3912,21 @@ export const jobOpenings = [
   {
     title: 'Technik serwisu',
     id: '618ddd06006c7795315cce42',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/253891BR?lang=pl-pl&previousLocale=en-US'
   },
   {
     title: 'Field Category Advisor',
     id: '618ddcfe006c7795315cbb0f',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/251529BR?lang=en-gb&previousLocale=en-US'
   },
   {
     title: 'Sales Rep - Relief Convenience/Gas',
     id: '618ddcf1006c7795315c9c79',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -3935,7 +3935,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Convenience/Gas',
     id: '618ddcdb006c7795315c6a35',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -3944,7 +3944,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618ddccf006c7795315c4ecd',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3953,7 +3953,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Team Lead',
     id: '618ddca2006c7795315be502',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -3962,7 +3962,7 @@ export const jobOpenings = [
   {
     title: 'Product Manager',
     id: '618ddc92006c7795315bbea2',
-    categories: [
+    departments: [
       'management',
       'product_management'
     ],
@@ -3972,14 +3972,14 @@ export const jobOpenings = [
   {
     title: 'Reset Specialist',
     id: '618ddc83006c7795315b9feb',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000770544706?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'PLC Controls Technician (Rotating Shifts)',
     id: '618ddc80006c7795315b9a3a',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -3988,7 +3988,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Δυτική Μακεδονία',
     id: '618ddc80006c7795315b990d',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -3997,7 +3997,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-time/Days)',
     id: '618ddc79006c7795315b89bd',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -4006,7 +4006,7 @@ export const jobOpenings = [
   {
     title: 'Finance Long Term Intern',
     id: '618ddc40006c7795315b0682',
-    categories: [
+    departments: [
       'finance',
       'internship'
     ],
@@ -4016,7 +4016,7 @@ export const jobOpenings = [
   {
     title: 'Data Steward Manager, Customer',
     id: '618ddc40006c7795315b05e8',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'management',
@@ -4028,7 +4028,7 @@ export const jobOpenings = [
   {
     title: 'Stage - Assistant Supply Chain Operations Planner H/F',
     id: '618ddc18006c7795315ab62f',
-    categories: [
+    departments: [
       'operations',
       'purchasing',
       'support'
@@ -4039,7 +4039,7 @@ export const jobOpenings = [
   {
     title: 'Equipment Delivery Driver -- CDL A',
     id: '618ddbd8006c7795315a21ec',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4048,7 +4048,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Full-time)',
     id: '618ddbcf006c7795315a0c79',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -4057,7 +4057,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A/Servicing McCook',
     id: '618ddbbe006c77953159e3a8',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4066,7 +4066,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618ddba5006c77953159a7eb',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4075,7 +4075,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver -- CDL A/Days',
     id: '618ddba1006c779531599d03',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4084,7 +4084,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A License Required',
     id: '618ddb9b006c779531598f7d',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4093,7 +4093,7 @@ export const jobOpenings = [
   {
     title: 'Supply Chain Data Analytics',
     id: '618ddb6b006c779531591e37',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'purchasing'
@@ -4104,7 +4104,7 @@ export const jobOpenings = [
   {
     title: 'Forklift Operator',
     id: '618ddb41006c77953158ba3f',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4113,7 +4113,7 @@ export const jobOpenings = [
   {
     title: 'Negotiations Analyst',
     id: '618ddb24006c779531587582',
-    categories: [
+    departments: [
       'data_analysis'
     ],
     isClosed: false,
@@ -4122,7 +4122,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Evenings/CDL A Permit/HIRING BONUS)',
     id: '618ddb19006c779531585bb9',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -4131,7 +4131,7 @@ export const jobOpenings = [
   {
     title: 'PLC Controls Technician (FT/Days)',
     id: '618ddb04006c779531582c67',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -4140,7 +4140,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (Rotating Shifts)',
     id: '618ddaf7006c779531580e9d',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4149,7 +4149,7 @@ export const jobOpenings = [
   {
     title: 'Part-time Merchandiser - Victoria',
     id: '618ddaf3006c779531580595',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -4158,7 +4158,7 @@ export const jobOpenings = [
   {
     title: 'Stage - Assistant Animation des ventes & Outils FDV H/F',
     id: '618ddaeb006c77953157f2db',
-    categories: [
+    departments: [
       'sales',
       'support'
     ],
@@ -4168,14 +4168,14 @@ export const jobOpenings = [
   {
     title: 'National KAM Aldi & Norma',
     id: '618ddad4006c77953157bd59',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/253781BR?lang=en-de&previousLocale=en-US'
   },
   {
     title: 'Experienced Fleet Technician (FT/Evenings/CDL A Permit)',
     id: '618ddabc006c7795315787b4',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -4184,7 +4184,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618ddab2006c77953157703b',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -4193,7 +4193,7 @@ export const jobOpenings = [
   {
     title: 'Full Time General Labor - Vending and Fountain Equipment- CDL B',
     id: '618dda96006c779531572c52',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -4203,7 +4203,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (Level 2)',
     id: '618dda5b006c77953156a40e',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -4213,7 +4213,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dda54006c7795315691d6',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4222,7 +4222,7 @@ export const jobOpenings = [
   {
     title: 'Marketing Creative Support Analyst',
     id: '618dda3b006c779531565b26',
-    categories: [
+    departments: [
       'data_analysis',
       'marketing',
       'support'
@@ -4233,7 +4233,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Bulk Delivery (tractor trailer) CDL A Required',
     id: '618dda35006c779531564b13',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4242,7 +4242,7 @@ export const jobOpenings = [
   {
     title: 'PLC Controls Technician (Gatorade Kissimmee, FL)',
     id: '618dda1f006c7795315617f6',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -4251,7 +4251,7 @@ export const jobOpenings = [
   {
     title: 'Sr Data Scientist',
     id: '618dda1c006c7795315610c0',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'research'
@@ -4262,7 +4262,7 @@ export const jobOpenings = [
   {
     title: 'Finance Planning Manager',
     id: '618dda02006c77953155d834',
-    categories: [
+    departments: [
       'finance',
       'management'
     ],
@@ -4272,7 +4272,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production - Evenings',
     id: '618dd9f3006c77953155b784',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -4282,7 +4282,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Evenings/CDL A Permit)',
     id: '618dd9c6006c779531554bc4',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -4291,7 +4291,7 @@ export const jobOpenings = [
   {
     title: 'Head of Digital Product Strategy, Europe eCommerce',
     id: '618dd9b0006c779531551f3e',
-    categories: [
+    departments: [
       'consulting',
       'management',
       'product_management'
@@ -4302,7 +4302,7 @@ export const jobOpenings = [
   {
     title: 'Quality Manager',
     id: '618dd97d006c77953154af06',
-    categories: [
+    departments: [
       'management',
       'quality_assurance'
     ],
@@ -4312,7 +4312,7 @@ export const jobOpenings = [
   {
     title: 'DMO Material Data Expert Snacks - Poland',
     id: '618dd968006c779531547d58',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology'
     ],
@@ -4322,7 +4322,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver Trainee - CDL A Permit',
     id: '618dd949006c779531543297',
-    categories: [
+    departments: [
       'internship',
       'manual_work'
     ],
@@ -4332,7 +4332,7 @@ export const jobOpenings = [
   {
     title: 'Stage - Assistant Contrôle de Gestion Catégorie H/F',
     id: '618dd92e006c77953153f7b5',
-    categories: [
+    departments: [
       'management',
       'support'
     ],
@@ -4342,7 +4342,7 @@ export const jobOpenings = [
   {
     title: 'Stage - Assistant Shopper Insights H/F',
     id: '618dd910006c77953153aeee',
-    categories: [
+    departments: [
       'support'
     ],
     isClosed: false,
@@ -4351,7 +4351,7 @@ export const jobOpenings = [
   {
     title: 'PLC Controls Technician (Nights)',
     id: '618dd905006c779531539296',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -4360,7 +4360,7 @@ export const jobOpenings = [
   {
     title: 'Yard Coordinator',
     id: '618dd8d3006c779531531e08',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -4369,7 +4369,7 @@ export const jobOpenings = [
   {
     title: 'Instrumentation & Automation Technician (Tropicana)',
     id: '618dd8cb006c779531530b55',
-    categories: [
+    departments: [
       'engineering',
       'software_development'
     ],
@@ -4379,14 +4379,14 @@ export const jobOpenings = [
   {
     title: 'Kierownik Personalny',
     id: '618dd8ba006c77953152e5a9',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/253682BR?lang=pl-pl&previousLocale=en-US'
   },
   {
     title: 'Information Security Engineering Senior Analyst',
     id: '618dd8a3006c77953152b12e',
-    categories: [
+    departments: [
       'data_analysis',
       'engineering',
       'information_technology',
@@ -4398,7 +4398,7 @@ export const jobOpenings = [
   {
     title: 'Marketing Creative Support Analyst - Quaker',
     id: '618dd880006c779531525f24',
-    categories: [
+    departments: [
       'data_analysis',
       'marketing',
       'support'
@@ -4409,7 +4409,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver - CDL A',
     id: '618dd87c006c7795315254a6',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4418,7 +4418,7 @@ export const jobOpenings = [
   {
     title: 'Experience Senior Designer',
     id: '618dd879006c779531524f84',
-    categories: [
+    departments: [
       'design'
     ],
     isClosed: false,
@@ -4427,7 +4427,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (Full-Time / Rotating Shifts)',
     id: '618dd872006c779531523dde',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4436,7 +4436,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver (CDL A Required)',
     id: '618dd870006c7795315238a6',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4445,7 +4445,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser Bonus Available',
     id: '618dd867006c779531522507',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -4454,7 +4454,7 @@ export const jobOpenings = [
   {
     title: 'Walmart eComm Sales Manager',
     id: '618dd85d006c779531520f1e',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -4464,7 +4464,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician - FT/Days/CDL A permit',
     id: '618dd858006c779531520398',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -4473,7 +4473,7 @@ export const jobOpenings = [
   {
     title: 'Principal Machine Learning Engineer',
     id: '618dd850006c77953151f1cb',
-    categories: [
+    departments: [
       'education',
       'engineering'
     ],
@@ -4483,7 +4483,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Merchandiser - Days',
     id: '618dd849006c77953151e036',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -4492,7 +4492,7 @@ export const jobOpenings = [
   {
     title: 'Back End / Full Stack Engineering Director',
     id: '618dd817006c779531516ac8',
-    categories: [
+    departments: [
       'directors',
       'education',
       'engineering',
@@ -4504,7 +4504,7 @@ export const jobOpenings = [
   {
     title: 'Stage - Assistant Revenue Management H/F',
     id: '618dd803006c779531513c1d',
-    categories: [
+    departments: [
       'finance',
       'management',
       'support'
@@ -4515,7 +4515,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dd7d0006c77953150c72b',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4524,7 +4524,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (CDL A permit required)',
     id: '618dd77a006c779531500251',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -4533,7 +4533,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver - CDL A',
     id: '618dd773006c7795314ff32d',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4542,7 +4542,7 @@ export const jobOpenings = [
   {
     title: 'Full-time Merchandiser- Days',
     id: '618dd770006c7795314feaaa',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -4551,7 +4551,7 @@ export const jobOpenings = [
   {
     title: 'Senior Analyst, Treasury (Risk/Insurance)',
     id: '618dd754006c7795314faa12',
-    categories: [
+    departments: [
       'data_analysis'
     ],
     isClosed: false,
@@ -4560,7 +4560,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Servicing Lexington NE Area',
     id: '618dd72f006c7795314f57cc',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -4569,7 +4569,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (Level 2)',
     id: '618dd72d006c7795314f54c2',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -4579,14 +4579,14 @@ export const jobOpenings = [
   {
     title: 'Material Planner',
     id: '618dd6be006c7795314e559e',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/253600BR?lang=es-mx&previousLocale=en-US'
   },
   {
     title: 'eCommerce Marketing Specialist',
     id: '618dd6aa006c7795314e2432',
-    categories: [
+    departments: [
       'marketing'
     ],
     isClosed: false,
@@ -4595,7 +4595,7 @@ export const jobOpenings = [
   {
     title: 'SC QC Technician',
     id: '618dd69c006c7795314e01f0',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -4604,7 +4604,7 @@ export const jobOpenings = [
   {
     title: 'Delivery- Relief Route Sales Driver -CDL A',
     id: '618dd64a006c7795314d3f59',
-    categories: [
+    departments: [
       'sales',
       'manual_work'
     ],
@@ -4614,7 +4614,7 @@ export const jobOpenings = [
   {
     title: 'Part Time Merchandiser',
     id: '618dd628006c7795314cf362',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -4623,7 +4623,7 @@ export const jobOpenings = [
   {
     title: 'Architect, Service Reliability manager',
     id: '618dd5f6006c7795314c8072',
-    categories: [
+    departments: [
       'design',
       'management',
       'support'
@@ -4634,7 +4634,7 @@ export const jobOpenings = [
   {
     title: 'Seasonal Full-time Warehouse Person (Loader)- Days',
     id: '618dd5f3006c7795314c7865',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4643,14 +4643,14 @@ export const jobOpenings = [
   {
     title: 'Yard Jockey (Full-time/Evenings)',
     id: '618dd5f1006c7795314c73fe',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000782693406?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dd5ec006c7795314c6946',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4659,7 +4659,7 @@ export const jobOpenings = [
   {
     title: 'Fleet Material Handling Technician (Evenings)',
     id: '618dd5e5006c7795314c57da',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -4668,7 +4668,7 @@ export const jobOpenings = [
   {
     title: 'Technician - Quality Control ( Full time rotating shift)',
     id: '618dd56e006c7795314b4982',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -4677,7 +4677,7 @@ export const jobOpenings = [
   {
     title: 'Geographic Enterprise Solution (GES) Recovery Senior Analyst',
     id: '618dd56c006c7795314b44a4',
-    categories: [
+    departments: [
       'data_analysis'
     ],
     isClosed: false,
@@ -4686,7 +4686,7 @@ export const jobOpenings = [
   {
     title: 'Integrated Supply Planner',
     id: '618dd553006c7795314b0cce',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -4695,7 +4695,7 @@ export const jobOpenings = [
   {
     title: 'Stage - Assistant Master Data & Développement Packaging H/F',
     id: '618dd546006c7795314aef1d',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'support'
@@ -4706,7 +4706,7 @@ export const jobOpenings = [
   {
     title: 'Marketing Manager, Total CSD, Activation & Commercialization; 市场经理,碳酸饮品,品牌运作及执行',
     id: '618dd52f006c7795314abf41',
-    categories: [
+    departments: [
       'management',
       'marketing'
     ],
@@ -4716,7 +4716,7 @@ export const jobOpenings = [
   {
     title: 'Junior Internal Comms, Culture & Engagement Coordinator',
     id: '618dd52e006c7795314abc2f',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -4725,7 +4725,7 @@ export const jobOpenings = [
   {
     title: 'PepsiCo Summer Internship, Commercial',
     id: '618dd516006c7795314a87a6',
-    categories: [
+    departments: [
       'internship'
     ],
     isClosed: false,
@@ -4734,7 +4734,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)- FT/Evenings',
     id: '618dd513006c7795314a81e9',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4743,7 +4743,7 @@ export const jobOpenings = [
   {
     title: 'Class 1 Delivery Driver - Kamloops',
     id: '618dd50a006c7795314a6f32',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4752,7 +4752,7 @@ export const jobOpenings = [
   {
     title: 'Sr. Manager, Global Consumer Relations Strategic Planning & Chief',
     id: '618dd503006c7795314a5fc8',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -4761,7 +4761,7 @@ export const jobOpenings = [
   {
     title: 'Commercial Capability Manager',
     id: '618dd502006c7795314a5c6f',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -4770,7 +4770,7 @@ export const jobOpenings = [
   {
     title: 'Sr Digital Manager (Baby Food)',
     id: '618dd4da006c7795314a05ac',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -4779,7 +4779,7 @@ export const jobOpenings = [
   {
     title: 'Stage - Assistant Comptabilité Clients H/F',
     id: '618dd4cb006c77953149e194',
-    categories: [
+    departments: [
       'finance',
       'support'
     ],
@@ -4789,7 +4789,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Convenience/Gas - Colby/Goodland, KS',
     id: '618dd4c6006c77953149d79c',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -4798,7 +4798,7 @@ export const jobOpenings = [
   {
     title: 'District Sales Leader Designate - Montgomery, AL',
     id: '618dd49f006c779531498fe1',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -4808,7 +4808,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)-Middlebrook Pike',
     id: '618dd498006c779531498042',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4817,7 +4817,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (Full-time)',
     id: '618dd48e006c77953149680c',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4826,7 +4826,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production (Filler Operator)',
     id: '618dd48d006c77953149658f',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -4836,7 +4836,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Geo Delivery (Box Truck) - FT/Days/CDL A required',
     id: '618dd487006c779531495725',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4845,7 +4845,7 @@ export const jobOpenings = [
   {
     title: 'Sales Analyst (Temporary position)',
     id: '618dd455006c77953148e6cb',
-    categories: [
+    departments: [
       'data_analysis',
       'sales'
     ],
@@ -4855,7 +4855,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Part Time Fargo',
     id: '618dd446006c77953148c318',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -4864,7 +4864,7 @@ export const jobOpenings = [
   {
     title: 'Contract Route Sales Representative - SAULT STE. MARIE',
     id: '618dd43c006c77953148aa99',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -4873,7 +4873,7 @@ export const jobOpenings = [
   {
     title: 'Class A CDL license Driver - Transport Driver (tractor trailer)',
     id: '618dd43b006c77953148a8d3',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4882,7 +4882,7 @@ export const jobOpenings = [
   {
     title: 'R&D Region Sr Technician',
     id: '618dd436006c779531489d16',
-    categories: [
+    departments: [
       'engineering',
       'research'
     ],
@@ -4892,7 +4892,7 @@ export const jobOpenings = [
   {
     title: 'Global Procurement Sr Director, Grains',
     id: '618dd41d006c77953148643b',
-    categories: [
+    departments: [
       'directors',
       'education',
       'purchasing'
@@ -4903,7 +4903,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Relief Schedule GeoBox -- CDL A',
     id: '618dd41a006c779531485eb9',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4912,7 +4912,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Days/CDL A PERMIT)',
     id: '618dd418006c77953148592e',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -4921,7 +4921,7 @@ export const jobOpenings = [
   {
     title: 'Digital Accelaration Manager',
     id: '618dd3fc006c77953148190b',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -4930,14 +4930,14 @@ export const jobOpenings = [
   {
     title: 'Field Category Advisor',
     id: '618dd3f4006c7795314805c9',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/249774BR?lang=en-gb&previousLocale=en-US'
   },
   {
     title: 'Fountain Installer (MEM)',
     id: '618dd3f1006c77953147fe8f',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4946,7 +4946,7 @@ export const jobOpenings = [
   {
     title: 'Packer',
     id: '618dd3e5006c77953147e527',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4955,7 +4955,7 @@ export const jobOpenings = [
   {
     title: 'Brand Manager Quaker North West Europe',
     id: '618dd3e5006c77953147e3ee',
-    categories: [
+    departments: [
       'management',
       'marketing'
     ],
@@ -4965,7 +4965,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Geo Delivery (Box Truck) (Full time CDL A Required)',
     id: '618dd3e1006c77953147dc05',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4974,7 +4974,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Large Grocery/Mass Merch (FT/Days)',
     id: '618dd3d4006c77953147c08a',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -4983,7 +4983,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Transport Driver (tractor trailer) Rotating Shifts/CDL A',
     id: '618dd3ae006c779531476ad8',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -4992,7 +4992,7 @@ export const jobOpenings = [
   {
     title: 'TM Associate Manager',
     id: '618dd3a9006c779531475fce',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -5001,7 +5001,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) Full-Time/Evenings',
     id: '618dd3a0006c77953147496b',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5010,7 +5010,7 @@ export const jobOpenings = [
   {
     title: 'District Sales Leader Designate - Miami, FL',
     id: '618dd37f006c77953146ff41',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -5020,7 +5020,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) FT/Evenings',
     id: '618dd36b006c77953146d19e',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5029,7 +5029,7 @@ export const jobOpenings = [
   {
     title: 'Unit General Manager Designate, Springdale',
     id: '618dd357006c77953146a7af',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -5038,7 +5038,7 @@ export const jobOpenings = [
   {
     title: 'Mobile Fleet Mechanic',
     id: '618dd342006c7795314677c4',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5047,7 +5047,7 @@ export const jobOpenings = [
   {
     title: 'Machine Learning Engineer',
     id: '618dd336006c779531465ac5',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -5056,7 +5056,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dd2f3006c77953145c4fb',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5065,7 +5065,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Bulk Delivery (tractor trailer)-CDL A',
     id: '618dd2eb006c77953145b127',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5074,7 +5074,7 @@ export const jobOpenings = [
   {
     title: 'Process Operator (3-ploegendienst)',
     id: '618dd2e9006c77953145ab33',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5083,7 +5083,7 @@ export const jobOpenings = [
   {
     title: 'Plant Director',
     id: '618dd2d1006c779531457550',
-    categories: [
+    departments: [
       'directors',
       'education'
     ],
@@ -5093,7 +5093,7 @@ export const jobOpenings = [
   {
     title: 'Project Manager',
     id: '618dd2c8006c779531456325',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -5102,7 +5102,7 @@ export const jobOpenings = [
   {
     title: 'eComm Sales Lead / Director – North',
     id: '618dd262006c77953144809e',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -5111,7 +5111,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)',
     id: '618dd244006c7795314441d9',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5120,7 +5120,7 @@ export const jobOpenings = [
   {
     title: 'Stage - Assistant Responsable Approvisionnement Clients H/F',
     id: '618dd23a006c779531443118',
-    categories: [
+    departments: [
       'purchasing',
       'support'
     ],
@@ -5130,7 +5130,7 @@ export const jobOpenings = [
   {
     title: 'Manufacturing Supervisor - Weekend Shift',
     id: '618dd23a006c779531443098',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -5140,7 +5140,7 @@ export const jobOpenings = [
   {
     title: 'External Communications Manager, Maternity Cover',
     id: '618dd233006c779531442190',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -5149,7 +5149,7 @@ export const jobOpenings = [
   {
     title: 'Government Affairs Executive',
     id: '618dd222006c77953144020d',
-    categories: [
+    departments: [
       'directors'
     ],
     isClosed: false,
@@ -5158,7 +5158,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dd214006c77953143e0bd',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5167,7 +5167,7 @@ export const jobOpenings = [
   {
     title: 'Sales Ops Asst Supervisor',
     id: '618dd207006c77953143c1f7',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -5177,7 +5177,7 @@ export const jobOpenings = [
   {
     title: 'Fountain Installer (D10K Required)',
     id: '618dd202006c77953143b974',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5186,7 +5186,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) FT/Days',
     id: '618dd1f5006c779531439b19',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5195,14 +5195,14 @@ export const jobOpenings = [
   {
     title: 'Werkstudenten (m/w/d) im Bereich eCommerce Operations',
     id: '618dd1f0006c77953143903d',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/253743BR?lang=en-de&previousLocale=en-US'
   },
   {
     title: 'Merchandiser - Part Time',
     id: '618dd1cc006c779531433b49',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -5211,7 +5211,7 @@ export const jobOpenings = [
   {
     title: 'Manufacturing Shift Supervisor',
     id: '618dd1b3006c77953143063b',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -5221,14 +5221,14 @@ export const jobOpenings = [
   {
     title: 'Occupational Safety / Ergonomics Programming & Design Sr. Resource',
     id: '618dd1b2006c7795314304b3',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/251467BR?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Local Delivery Driver - CDL A Required',
     id: '618dd18e006c77953142b4f8',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5237,7 +5237,7 @@ export const jobOpenings = [
   {
     title: 'Enterprise Solutions Sr Manager',
     id: '618dd15e006c779531425240',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -5246,7 +5246,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Operations Manager',
     id: '618dd0f9006c779531417fcd',
-    categories: [
+    departments: [
       'management',
       'operations',
       'manual_work'
@@ -5257,7 +5257,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618dd0db006c77953141443c',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -5266,7 +5266,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production (Rotating Shifts)',
     id: '618dd0c6006c77953141163f',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -5276,7 +5276,7 @@ export const jobOpenings = [
   {
     title: 'Dispatcher',
     id: '618dd0c4006c779531411223',
-    categories: [
+    departments: [
       'operations'
     ],
     isClosed: false,
@@ -5285,7 +5285,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver -CDL A',
     id: '618dd0b4006c77953140edac',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5294,7 +5294,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver (CDL A required)',
     id: '618dd0a7006c77953140d23a',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5303,7 +5303,7 @@ export const jobOpenings = [
   {
     title: 'Part-time Merchandiser - Vancouver',
     id: '618dd090006c779531409fe6',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -5312,7 +5312,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Full-time/Days)',
     id: '618dd06d006c77953140519b',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -5321,7 +5321,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (Part time rotating shifts)',
     id: '618dd051006c7795314010b2',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5330,14 +5330,14 @@ export const jobOpenings = [
   {
     title: 'General Labour - Taber Seasonal',
     id: '618dd04b006c77953140048d',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/253598BR?lang=en-ca&previousLocale=en-US'
   },
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dd02c006c7795313fba80',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5346,7 +5346,7 @@ export const jobOpenings = [
   {
     title: 'Fountain Installer (MEM) - CDL A Required',
     id: '618dd022006c7795313fa671',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5355,7 +5355,7 @@ export const jobOpenings = [
   {
     title: 'Global Procurement Manager, Commodities (Metals)',
     id: '618dd01e006c7795313f9e51',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -5365,7 +5365,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL Class A License',
     id: '618dd016006c7795313f8d80',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5374,7 +5374,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (Part-time/Rotating Shifts)',
     id: '618dcffe006c7795313f5820',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5383,7 +5383,7 @@ export const jobOpenings = [
   {
     title: 'Route Sales Representative - SCARBOROUGH',
     id: '618dcff0006c7795313f3921',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -5392,7 +5392,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver (FT/Days/CDL A License Required)',
     id: '618dcfcd006c7795313eee77',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5401,7 +5401,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) - Nights',
     id: '618dcfbf006c7795313ed2c7',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5410,7 +5410,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Required',
     id: '618dcfb8006c7795313ec5f4',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5419,7 +5419,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Convenience/Gas',
     id: '618dcf9c006c7795313e8d0a',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -5428,7 +5428,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (Full-time)',
     id: '618dcf8b006c7795313e65af',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5437,7 +5437,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)',
     id: '618dcf8b006c7795313e6478',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5446,7 +5446,7 @@ export const jobOpenings = [
   {
     title: 'Marketing Operations Specialist - Snacks & Beverages',
     id: '618dcf56006c7795313df0fe',
-    categories: [
+    departments: [
       'marketing',
       'operations'
     ],
@@ -5456,7 +5456,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (Level 3) (Full time)',
     id: '618dcf26006c7795313d812f',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -5466,7 +5466,7 @@ export const jobOpenings = [
   {
     title: 'Marketing Manager, With Meal; 市场经理,佐餐',
     id: '618dcf00006c7795313d2dc2',
-    categories: [
+    departments: [
       'management',
       'marketing'
     ],
@@ -5476,7 +5476,7 @@ export const jobOpenings = [
   {
     title: 'Data Steward Deployment Lead',
     id: '618dcef8006c7795313d193e',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'food'
@@ -5487,7 +5487,7 @@ export const jobOpenings = [
   {
     title: 'Inbound Logisitcs Execution Coordinator (FTC 12 months)',
     id: '618dce82006c7795313c1156',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -5496,7 +5496,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Food Service/Vending Product Delivery (D10K)',
     id: '618dce7e006c7795313c083a',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5505,7 +5505,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Rotating Shifts)',
     id: '618dce63006c7795313bcc35',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -5514,7 +5514,7 @@ export const jobOpenings = [
   {
     title: 'Tax Analyst',
     id: '618dce5b006c7795313bb8ee',
-    categories: [
+    departments: [
       'data_analysis',
       'finance'
     ],
@@ -5524,7 +5524,7 @@ export const jobOpenings = [
   {
     title: 'Power Apps Developer',
     id: '618dce46006c7795313b8d00',
-    categories: [
+    departments: [
       'software_development'
     ],
     isClosed: false,
@@ -5533,7 +5533,7 @@ export const jobOpenings = [
   {
     title: 'Global Procurement FP&A Manager- Flex Packaging',
     id: '618dce35006c7795313b63fa',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -5543,7 +5543,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production - Nights',
     id: '618dce23006c7795313b3871',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -5553,7 +5553,7 @@ export const jobOpenings = [
   {
     title: 'Talent Acquisition Coordinator',
     id: '618dcdf8006c7795313ad7db',
-    categories: [
+    departments: [
       'human_resources',
       'management',
       'marketing'
@@ -5564,7 +5564,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Seasonal',
     id: '618dcdb9006c7795313a484f',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -5573,7 +5573,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser/Driver Helper (Seasonal)',
     id: '618dcdb0006c7795313a33b0',
-    categories: [
+    departments: [
       'purchasing',
       'manual_work'
     ],
@@ -5583,7 +5583,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Full-time/Evenings)',
     id: '618dcdaa006c7795313a281f',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -5592,7 +5592,7 @@ export const jobOpenings = [
   {
     title: 'Finance Business Planning Manager',
     id: '618dcd9c006c7795313a0a1f',
-    categories: [
+    departments: [
       'finance',
       'management'
     ],
@@ -5602,7 +5602,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Supervisor - Winnipeg',
     id: '618dcd96006c77953139fd9c',
-    categories: [
+    departments: [
       'management',
       'manual_work'
     ],
@@ -5612,7 +5612,7 @@ export const jobOpenings = [
   {
     title: 'Brand Designer, Sustainability',
     id: '618dcd92006c77953139f602',
-    categories: [
+    departments: [
       'design',
       'marketing'
     ],
@@ -5622,7 +5622,7 @@ export const jobOpenings = [
   {
     title: 'Forklift Operator (weekends)',
     id: '618dcd75006c77953139b8d7',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5631,7 +5631,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dcd68006c779531399c12',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5640,7 +5640,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - PT/Days',
     id: '618dcd60006c779531398901',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -5649,7 +5649,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Days/CDL A Permit)',
     id: '618dcd56006c779531397223',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -5658,7 +5658,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver (CDL A Required) Hiring Bonus',
     id: '618dcd22006c779531390eea',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5667,7 +5667,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Full-Time / Days)',
     id: '618dcd0f006c77953138e265',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -5676,7 +5676,7 @@ export const jobOpenings = [
   {
     title: 'Sales Leadership Program - Calgary',
     id: '618dcd08006c77953138d2ba',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -5685,7 +5685,7 @@ export const jobOpenings = [
   {
     title: 'Operations Utility Associate (PGCS)',
     id: '618dccf3006c77953138a3b0',
-    categories: [
+    departments: [
       'operations'
     ],
     isClosed: false,
@@ -5694,7 +5694,7 @@ export const jobOpenings = [
   {
     title: 'Head of Service Design / User Experience Design',
     id: '618dccd7006c77953138642c',
-    categories: [
+    departments: [
       'design',
       'management',
       'support'
@@ -5705,7 +5705,7 @@ export const jobOpenings = [
   {
     title: 'Process Engineering Sr. Director',
     id: '618dccc0006c779531383240',
-    categories: [
+    departments: [
       'directors',
       'education',
       'engineering'
@@ -5716,7 +5716,7 @@ export const jobOpenings = [
   {
     title: 'Supply Chain Fleet Associate Supervisor',
     id: '618dccb8006c779531381e26',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -5726,7 +5726,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618dcc9a006c77953137dce5',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -5735,7 +5735,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver - CDL A Required',
     id: '618dcc99006c77953137da00',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5744,7 +5744,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dcc98006c77953137d83f',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5753,7 +5753,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Large Grocery/Mass Merch',
     id: '618dcc55006c7795313744ff',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -5762,7 +5762,7 @@ export const jobOpenings = [
   {
     title: 'External Data Steward Associate Manager',
     id: '618dcc4a006c779531372ab0',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'management',
@@ -5774,7 +5774,7 @@ export const jobOpenings = [
   {
     title: 'Sales Finance Analyst',
     id: '618dcc43006c779531371bdf',
-    categories: [
+    departments: [
       'data_analysis',
       'finance',
       'sales'
@@ -5785,7 +5785,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Mechanic (FT/Days/CDL A permit required)',
     id: '618dcc2a006c77953136e558',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5794,7 +5794,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dcc27006c77953136ddd5',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5803,7 +5803,7 @@ export const jobOpenings = [
   {
     title: 'Maint/Eng Supervisor',
     id: '618dcc26006c77953136dba3',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -5812,7 +5812,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (MEM)',
     id: '618dcbfe006c77953136807d',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -5822,7 +5822,7 @@ export const jobOpenings = [
   {
     title: 'Part-time General Labor - Sales - SEASONAL/CDL A',
     id: '618dcbee006c779531365dcc',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -5832,7 +5832,7 @@ export const jobOpenings = [
   {
     title: 'Sr Sales Insights Manager',
     id: '618dcbeb006c7795313657dc',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -5842,7 +5842,7 @@ export const jobOpenings = [
   {
     title: 'CI Manager',
     id: '618dcbd1006c779531361d24',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -5851,7 +5851,7 @@ export const jobOpenings = [
   {
     title: 'Route Sales Representative - Prince George',
     id: '618dcba9006c77953135c224',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -5860,7 +5860,7 @@ export const jobOpenings = [
   {
     title: 'Finance Planning Lead',
     id: '618dcb9d006c77953135a6d9',
-    categories: [
+    departments: [
       'finance'
     ],
     isClosed: false,
@@ -5869,7 +5869,7 @@ export const jobOpenings = [
   {
     title: 'Junior Finance Reporting Analyst',
     id: '618dcb9b006c77953135a3ff',
-    categories: [
+    departments: [
       'data_analysis',
       'finance'
     ],
@@ -5879,7 +5879,7 @@ export const jobOpenings = [
   {
     title: 'Yard Jockey- CDL A',
     id: '618dcb8c006c77953135814c',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5888,7 +5888,7 @@ export const jobOpenings = [
   {
     title: 'Sales District Leader Designate',
     id: '618dcb5a006c77953135136a',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -5898,7 +5898,7 @@ export const jobOpenings = [
   {
     title: 'Engineering Quality Control Senior Analyst',
     id: '618dcb23006c779531349b92',
-    categories: [
+    departments: [
       'data_analysis',
       'engineering',
       'quality_assurance'
@@ -5909,7 +5909,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Supervisor',
     id: '618dcb1c006c77953134904c',
-    categories: [
+    departments: [
       'management',
       'manual_work'
     ],
@@ -5919,7 +5919,7 @@ export const jobOpenings = [
   {
     title: 'Fountain Installer (MEM) CDL A',
     id: '618dcb1a006c779531348b77',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5928,14 +5928,14 @@ export const jobOpenings = [
   {
     title: 'Przedstawiciel Handlowy Vanseller',
     id: '618dcb11006c7795313478e6',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/253433BR?lang=pl-pl&previousLocale=en-US'
   },
   {
     title: 'Service Design Sr. Manager',
     id: '618dcae7006c779531341a91',
-    categories: [
+    departments: [
       'design',
       'management',
       'support'
@@ -5946,7 +5946,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Transport Driver (tractor trailer) (FT/CDL A required)',
     id: '618dcae2006c779531340f90',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -5955,7 +5955,7 @@ export const jobOpenings = [
   {
     title: 'Data Privacy Manager',
     id: '618dcac9006c77953133e112',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'management'
@@ -5966,7 +5966,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production - Gatorade - Evenings',
     id: '618dcab5006c77953133bded',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -5976,7 +5976,7 @@ export const jobOpenings = [
   {
     title: 'Software Engineer',
     id: '618dcaa7006c779531339fbe',
-    categories: [
+    departments: [
       'engineering',
       'software_development'
     ],
@@ -5986,7 +5986,7 @@ export const jobOpenings = [
   {
     title: 'PLC Controls Technician (Full-time)',
     id: '618dca9c006c779531338578',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -5995,7 +5995,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Part -Time',
     id: '618dca7f006c779531334598',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -6004,7 +6004,7 @@ export const jobOpenings = [
   {
     title: 'SC Customer Management Representative - 12 month contract',
     id: '618dca62006c7795313304d4',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -6013,7 +6013,7 @@ export const jobOpenings = [
   {
     title: 'Manager - Global Consumer Data Strategy',
     id: '618dca11006c77953132529c',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -6022,7 +6022,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver - CDL A',
     id: '618dc9bb006c779531319965',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6031,7 +6031,7 @@ export const jobOpenings = [
   {
     title: 'Customer Business Manager, Juice',
     id: '618dc9b3006c77953131887f',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -6040,7 +6040,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Required',
     id: '618dc95d006c77953130ce29',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6049,7 +6049,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-Time / Days)',
     id: '618dc94b006c77953130a6aa',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -6058,7 +6058,7 @@ export const jobOpenings = [
   {
     title: 'Assistant Operator',
     id: '618dc914006c779531302cd9',
-    categories: [
+    departments: [
       'support',
       'manual_work'
     ],
@@ -6068,7 +6068,7 @@ export const jobOpenings = [
   {
     title: 'Trade Marketing Manger - E-Commerce',
     id: '618dc8f3006c7795312fe584',
-    categories: [
+    departments: [
       'marketing'
     ],
     isClosed: false,
@@ -6077,7 +6077,7 @@ export const jobOpenings = [
   {
     title: 'Design Assistant Manager, Snacks;设计助理经理,休闲食品',
     id: '618dc8f1006c7795312fe0b1',
-    categories: [
+    departments: [
       'design',
       'management',
       'support'
@@ -6088,7 +6088,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Geo Delivery (Box Truck) (CDL Required)',
     id: '618dc8ef006c7795312fdc5b',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6097,14 +6097,14 @@ export const jobOpenings = [
   {
     title: 'Cntrl & Rpt Associate',
     id: '618dc8c5006c7795312f7c82',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/251957BR?lang=en-eg&previousLocale=en-US'
   },
   {
     title: 'Merchandiser (Full-time/Days)',
     id: '618dc8bb006c7795312f676b',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -6113,7 +6113,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Evenings/CDL A Permit/HIRING BONUS)',
     id: '618dc878006c7795312edc6f',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -6122,7 +6122,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Delivery Support)',
     id: '618dc875006c7795312ed769',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -6131,7 +6131,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (Full-time)',
     id: '618dc86f006c7795312eca5a',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6140,7 +6140,7 @@ export const jobOpenings = [
   {
     title: 'Sr. Data Scientist and Analytics Analyst',
     id: '618dc86d006c7795312ec579',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'research'
@@ -6151,7 +6151,7 @@ export const jobOpenings = [
   {
     title: 'R&D Principal Process Engineer - Baking',
     id: '618dc838006c7795312e61d6',
-    categories: [
+    departments: [
       'education',
       'engineering',
       'research'
@@ -6162,7 +6162,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (Level 3) Evenings',
     id: '618dc801006c7795312de26b',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -6172,7 +6172,7 @@ export const jobOpenings = [
   {
     title: 'Ammonia Refrigeration & Mechanical Utilities Supervisor',
     id: '618dc7f9006c7795312dd18a',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -6182,7 +6182,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Large Grocery/Mass Merch',
     id: '618dc787006c7795312cd8c8',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -6191,7 +6191,7 @@ export const jobOpenings = [
   {
     title: 'Content Manager',
     id: '618dc77c006c7795312cc186',
-    categories: [
+    departments: [
       'management',
       'marketing'
     ],
@@ -6201,7 +6201,7 @@ export const jobOpenings = [
   {
     title: 'Supply Chain Leader - Manufacturing',
     id: '618dc777006c7795312cb526',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -6211,7 +6211,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (PT / Rotating Shifts)',
     id: '618dc771006c7795312ca734',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -6220,7 +6220,7 @@ export const jobOpenings = [
   {
     title: 'Operation Process & Documentation Sr. Analyst',
     id: '618dc6d4006c7795312b4972',
-    categories: [
+    departments: [
       'data_analysis',
       'healthcare_services'
     ],
@@ -6230,7 +6230,7 @@ export const jobOpenings = [
   {
     title: 'Senior Data Scientist',
     id: '618dc61d006c77953129b38e',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'research'
@@ -6241,14 +6241,14 @@ export const jobOpenings = [
   {
     title: 'Seasonal Packers - $19.15/HR',
     id: '618dc61c006c77953129b08a',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/253311BR?lang=en-ca&previousLocale=en-US'
   },
   {
     title: 'Merchandiser- Servicing Millersville University/SEASONAL',
     id: '618dc619006c77953129aa2e',
-    categories: [
+    departments: [
       'education',
       'purchasing'
     ],
@@ -6258,7 +6258,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Required',
     id: '618dc600006c779531297275',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6267,7 +6267,7 @@ export const jobOpenings = [
   {
     title: 'Local Deliver Driver - CDL A/HIRING BONUS',
     id: '618dc5fa006c7795312964c4',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6276,7 +6276,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Big Rapids, Lakeview, Baldwin, Reed City area',
     id: '618dc5e0006c77953129292e',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -6285,7 +6285,7 @@ export const jobOpenings = [
   {
     title: 'Traffic Safety and Operations Manager',
     id: '618dc5bc006c77953128e7d0',
-    categories: [
+    departments: [
       'management',
       'operations'
     ],
@@ -6295,7 +6295,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (MEM) FT/Rotating Shifts',
     id: '618dc573006c779531283fb3',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -6305,7 +6305,7 @@ export const jobOpenings = [
   {
     title: 'Enterprise Service Management Experience Design Lead',
     id: '618dc56f006c7795312835da',
-    categories: [
+    departments: [
       'design',
       'management',
       'support'
@@ -6316,7 +6316,7 @@ export const jobOpenings = [
   {
     title: 'Revenue Mix Analyst',
     id: '618dc565006c779531282047',
-    categories: [
+    departments: [
       'data_analysis',
       'finance'
     ],
@@ -6326,7 +6326,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618dc55f006c779531281272',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -6335,14 +6335,14 @@ export const jobOpenings = [
   {
     title: 'Reset Specialist Full-time/Days',
     id: '618dc51f006c779531277edd',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000768076006?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Merchandiser (PT/Days)',
     id: '618dc4ea006c7795312709ac',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -6351,7 +6351,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Supervisor',
     id: '618dc4ea006c7795312708b9',
-    categories: [
+    departments: [
       'management',
       'manual_work'
     ],
@@ -6361,7 +6361,7 @@ export const jobOpenings = [
   {
     title: 'Paralegal',
     id: '618dc4e3006c77953126f672',
-    categories: [
+    departments: [
       'legal'
     ],
     isClosed: false,
@@ -6370,7 +6370,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Large Grocery/Mass Merch',
     id: '618dc4d3006c77953126d003',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -6379,7 +6379,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) Seasonal -Evenings',
     id: '618dc4c8006c77953126b962',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6388,7 +6388,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dc4c0006c77953126a898',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6397,7 +6397,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician Trainee (MEM)',
     id: '618dc4be006c77953126a313',
-    categories: [
+    departments: [
       'engineering',
       'internship',
       'support'
@@ -6408,7 +6408,7 @@ export const jobOpenings = [
   {
     title: 'Brand Marketing Analyst',
     id: '618dc498006c779531264832',
-    categories: [
+    departments: [
       'data_analysis',
       'marketing'
     ],
@@ -6418,7 +6418,7 @@ export const jobOpenings = [
   {
     title: 'Labor Representative',
     id: '618dc497006c7795312644b2',
-    categories: [
+    departments: [
       'research'
     ],
     isClosed: false,
@@ -6427,7 +6427,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-time)',
     id: '618dc45e006c77953125c4ab',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -6436,7 +6436,7 @@ export const jobOpenings = [
   {
     title: 'Electro-Mechanical Technician - Nights',
     id: '618dc45c006c77953125bedc',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -6445,7 +6445,7 @@ export const jobOpenings = [
   {
     title: 'Shopper Marketing Senior Manager - Large Format_PBNA West Division',
     id: '618dc44b006c779531259835',
-    categories: [
+    departments: [
       'management',
       'marketing'
     ],
@@ -6455,7 +6455,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Transport Driver (tractor trailer)',
     id: '618dc42c006c779531254fab',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6464,7 +6464,7 @@ export const jobOpenings = [
   {
     title: 'Shift Operations Manager',
     id: '618dc3e0006c77953124a2dc',
-    categories: [
+    departments: [
       'management',
       'operations'
     ],
@@ -6474,14 +6474,14 @@ export const jobOpenings = [
   {
     title: 'Gate Checker',
     id: '618dc3bc006c7795312453ab',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000777885806?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Local Driver - CDL A',
     id: '618dc3af006c7795312437eb',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6490,7 +6490,7 @@ export const jobOpenings = [
   {
     title: 'Palletizing Operator (Tropicana)',
     id: '618dc37a006c77953123c2f2',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6499,7 +6499,7 @@ export const jobOpenings = [
   {
     title: 'Electro-Mechanical Technician (Gatorade Kissimmee, FL)',
     id: '618dc32c006c7795312322ae',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -6508,7 +6508,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production - Nights',
     id: '618dc315006c77953122ed51',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -6518,7 +6518,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician - Evenings/CDL A Permit',
     id: '618dc30d006c77953122dae4',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -6527,7 +6527,7 @@ export const jobOpenings = [
   {
     title: 'Sales Leadership Program',
     id: '618dc2c1006c779531222a43',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -6536,7 +6536,7 @@ export const jobOpenings = [
   {
     title: 'Entry-Level Fleet Technician (CDL A permit)',
     id: '618dc2c1006c779531222977',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -6545,7 +6545,7 @@ export const jobOpenings = [
   {
     title: 'National Account Manager - Woolworths Others (Licensed & Big W) - 12 Month FTC',
     id: '618dc29c006c77953121d9f0',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -6555,7 +6555,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Sales (Part Time)',
     id: '618dc271006c779531217e80',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -6565,7 +6565,7 @@ export const jobOpenings = [
   {
     title: 'Finance Associate Analyst, Digital Performance',
     id: '618dc271006c779531217d03',
-    categories: [
+    departments: [
       'data_analysis',
       'finance'
     ],
@@ -6575,7 +6575,7 @@ export const jobOpenings = [
   {
     title: 'Full-time Machine Operator Production- Days',
     id: '618dc239006c77953120fad1',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -6585,7 +6585,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - City of Industry, CA',
     id: '618dc202006c779531208125',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -6595,7 +6595,7 @@ export const jobOpenings = [
   {
     title: 'Data Steward 1st Party Associate Manager, Vendor',
     id: '618dc1eb006c779531204d12',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'management',
@@ -6607,7 +6607,7 @@ export const jobOpenings = [
   {
     title: 'Quality & Food Safety - Internship',
     id: '618dc1d1006c77953120141a',
-    categories: [
+    departments: [
       'internship'
     ],
     isClosed: false,
@@ -6616,7 +6616,7 @@ export const jobOpenings = [
   {
     title: 'Europe IT Marketing Delivery Analyst',
     id: '618dc1c4006c7795311ff62c',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'marketing'
@@ -6627,7 +6627,7 @@ export const jobOpenings = [
   {
     title: 'Project Management Officer- GBS (Cairo Hub)',
     id: '618dc1bb006c7795311fe0d1',
-    categories: [
+    departments: [
       'management',
       'military_and_protective_services'
     ],
@@ -6637,7 +6637,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Sales - Special Events S&D',
     id: '618dc1af006c7795311fc348',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -6647,7 +6647,7 @@ export const jobOpenings = [
   {
     title: 'eComm Digital Marketing Manager, North Division',
     id: '618dc196006c7795311f8d1f',
-    categories: [
+    departments: [
       'management',
       'marketing'
     ],
@@ -6657,7 +6657,7 @@ export const jobOpenings = [
   {
     title: 'Supply Chain Supervisor',
     id: '618dc189006c7795311f7090',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -6667,7 +6667,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (Level 1)',
     id: '618dc187006c7795311f6bc0',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -6677,7 +6677,7 @@ export const jobOpenings = [
   {
     title: 'Sales District Leader Designate',
     id: '618dc177006c7795311f484a',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -6687,7 +6687,7 @@ export const jobOpenings = [
   {
     title: 'Manufacturing Supply Chain Leader',
     id: '618dc155006c7795311efd26',
-    categories: [
+    departments: [
       'engineering',
       'management',
       'purchasing'
@@ -6698,7 +6698,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician Trainee (MEM) (FT/Days/D10K)',
     id: '618dc146006c7795311edf92',
-    categories: [
+    departments: [
       'engineering',
       'internship',
       'support'
@@ -6709,7 +6709,7 @@ export const jobOpenings = [
   {
     title: 'Principal Data Architect, Manager',
     id: '618dc125006c7795311e9bf0',
-    categories: [
+    departments: [
       'data_analysis',
       'design',
       'education',
@@ -6722,7 +6722,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) - Nights (Hiring Bonus)',
     id: '618dc124006c7795311e99f3',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6731,7 +6731,7 @@ export const jobOpenings = [
   {
     title: 'Local Tractor Trailer Driver - CDL A',
     id: '618dc11a006c7795311e846d',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6740,7 +6740,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) FT/Evenings/SEASONAL',
     id: '618dc101006c7795311e4c2a',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6749,7 +6749,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Evenings/CDL A Permit/HIRING BONUS)',
     id: '618dc0f9006c7795311e3bfc',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -6758,14 +6758,14 @@ export const jobOpenings = [
   {
     title: 'Reset Specialist (Seasonal)',
     id: '618dc0f8006c7795311e3ab6',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000775441706?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Experienced Fleet Technician -CDL A',
     id: '618dc0ef006c7795311e26d0',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -6775,7 +6775,7 @@ export const jobOpenings = [
   {
     title: 'FP&A Analyst with French',
     id: '618dc0ea006c7795311e1c35',
-    categories: [
+    departments: [
       'data_analysis'
     ],
     isClosed: false,
@@ -6784,7 +6784,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Convenience/Gas',
     id: '618dc0ce006c7795311deb52',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -6793,7 +6793,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dc0c7006c7795311ddd3b',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6802,7 +6802,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Edmonton',
     id: '618dc096006c7795311d6f81',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -6811,7 +6811,7 @@ export const jobOpenings = [
   {
     title: 'Tax Specialist - FTC until 30 Dec 2022',
     id: '618dc091006c7795311d6206',
-    categories: [
+    departments: [
       'finance'
     ],
     isClosed: false,
@@ -6820,7 +6820,7 @@ export const jobOpenings = [
   {
     title: 'Walmart eCommerce Sales Manager',
     id: '618dc080006c7795311d3b28',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -6830,14 +6830,14 @@ export const jobOpenings = [
   {
     title: 'Reset Specialist',
     id: '618dc036006c7795311c951b',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000763432706?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Merchandiser (Part-time)',
     id: '618dc032006c7795311c8bc6',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -6846,7 +6846,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) - Nights',
     id: '618dc014006c7795311c4c26',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6855,7 +6855,7 @@ export const jobOpenings = [
   {
     title: 'Junior FP&A Analyst',
     id: '618dc00c006c7795311c3a41',
-    categories: [
+    departments: [
       'data_analysis'
     ],
     isClosed: false,
@@ -6864,7 +6864,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) - Evenings/SEASONAL',
     id: '618dc006006c7795311c2cc4',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6873,7 +6873,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Full Time in NW Suburbs of Chicago',
     id: '618dbfff006c7795311c1ddb',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -6882,7 +6882,7 @@ export const jobOpenings = [
   {
     title: 'Front Line Manager',
     id: '618dbfe6006c7795311be0dd',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -6891,7 +6891,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (MEM) (Full-time/Nights)',
     id: '618dbfe4006c7795311bdd66',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -6901,14 +6901,14 @@ export const jobOpenings = [
   {
     title: 'Coordonateur(trice) de l’environnement, de la santé et de la sécurité',
     id: '618dbfcd006c7795311bab89',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/252767BR?lang=fr-ca&previousLocale=en-US'
   },
   {
     title: 'General Labor - Vending and Fountain Equipment (CDL A required)',
     id: '618dbfc8006c7795311b9f35',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -6918,7 +6918,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Transport Driver (tractor trailer)-- CDL A',
     id: '618dbf97006c7795311b2d14',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6927,7 +6927,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Sales (Seasonal)',
     id: '618dbf83006c7795311b046b',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -6937,7 +6937,7 @@ export const jobOpenings = [
   {
     title: 'Weekend Part Time Merchandiser - GRAVENHURST/BRACEBRIDGE',
     id: '618dbf64006c7795311abe18',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -6946,7 +6946,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A/Nights',
     id: '618dbf18006c7795311a12ef',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6955,7 +6955,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL Class A Permit',
     id: '618dbee3006c779531199d49',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6964,7 +6964,7 @@ export const jobOpenings = [
   {
     title: 'Full-time Mechanic - Fleet (NO CDL)- Evenings',
     id: '618dbeda006c779531198a63',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6973,7 +6973,7 @@ export const jobOpenings = [
   {
     title: 'Supply Chain Leader',
     id: '618dbecd006c779531196f73',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -6983,7 +6983,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A - SIGN ON BONUS',
     id: '618dbeb2006c779531193a5e',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -6992,7 +6992,7 @@ export const jobOpenings = [
   {
     title: 'Sales Commercial Analyst',
     id: '618dbeaa006c77953119271e',
-    categories: [
+    departments: [
       'data_analysis',
       'sales'
     ],
@@ -7002,7 +7002,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver (CDL A required)',
     id: '618dbea3006c77953119167c',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7011,7 +7011,7 @@ export const jobOpenings = [
   {
     title: 'IoT Solution Architect',
     id: '618dbe7e006c77953118c84b',
-    categories: [
+    departments: [
       'design'
     ],
     isClosed: false,
@@ -7020,7 +7020,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver Trainee - CDL A PERMIT',
     id: '618dbe57006c779531187b22',
-    categories: [
+    departments: [
       'internship',
       'manual_work'
     ],
@@ -7030,7 +7030,7 @@ export const jobOpenings = [
   {
     title: 'Deputy Manager',
     id: '618dbe23006c779531180966',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -7039,7 +7039,7 @@ export const jobOpenings = [
   {
     title: 'Back End / Full Stack Engineering Manager',
     id: '618dbdd7006c779531175ce0',
-    categories: [
+    departments: [
       'engineering',
       'management',
       'software_development'
@@ -7050,7 +7050,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver -- CDL A',
     id: '618dbd87006c77953116ad05',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7059,7 +7059,7 @@ export const jobOpenings = [
   {
     title: 'Product Manager Director',
     id: '618dbd7c006c7795311695c1',
-    categories: [
+    departments: [
       'directors',
       'education',
       'management',
@@ -7071,7 +7071,7 @@ export const jobOpenings = [
   {
     title: 'Global Procurement Sr Coordinator',
     id: '618dbd5d006c7795311651ed',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -7081,7 +7081,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dbd48006c77953116229a',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7090,14 +7090,14 @@ export const jobOpenings = [
   {
     title: 'Lider zmiany UR',
     id: '618dbd41006c77953116108b',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/249930BR?lang=pl-pl&previousLocale=en-US'
   },
   {
     title: 'Brand Manager Lamber',
     id: '618dbd28006c77953115dc7e',
-    categories: [
+    departments: [
       'management',
       'marketing'
     ],
@@ -7107,7 +7107,7 @@ export const jobOpenings = [
   {
     title: 'Gestor/a de Operaciones-Logística Secundaria',
     id: '618dbd23006c77953115d027',
-    categories: [
+    departments: [
       'operations'
     ],
     isClosed: false,
@@ -7116,7 +7116,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-time)',
     id: '618dbd01006c77953115871a',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -7125,7 +7125,7 @@ export const jobOpenings = [
   {
     title: 'Associate Design Director, Brand Design, 品牌设计副总监',
     id: '618dbced006c779531155d06',
-    categories: [
+    departments: [
       'design',
       'directors',
       'education',
@@ -7137,7 +7137,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician Trainee (MEM)',
     id: '618dbccf006c77953115185e',
-    categories: [
+    departments: [
       'engineering',
       'internship',
       'support'
@@ -7148,7 +7148,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production (FT/Rotating Shift)',
     id: '618dbcc1006c77953114f5ee',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -7158,7 +7158,7 @@ export const jobOpenings = [
   {
     title: 'Prod Dev Sr Scientist',
     id: '618dbcab006c77953114c6f2',
-    categories: [
+    departments: [
       'research'
     ],
     isClosed: false,
@@ -7167,7 +7167,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Convenience/Gas',
     id: '618dbca8006c77953114c209',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -7176,7 +7176,7 @@ export const jobOpenings = [
   {
     title: 'Architect, IOT Security',
     id: '618dbc66006c779531142e8c',
-    categories: [
+    departments: [
       'design',
       'military_and_protective_services'
     ],
@@ -7186,7 +7186,7 @@ export const jobOpenings = [
   {
     title: 'District Sales Leader Designate - Albert Lea, MN',
     id: '618dbc5e006c779531141e49',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -7196,7 +7196,7 @@ export const jobOpenings = [
   {
     title: 'Financial Planning Manager – Commercial',
     id: '618dbc4f006c77953113fe36',
-    categories: [
+    departments: [
       'finance',
       'management'
     ],
@@ -7206,7 +7206,7 @@ export const jobOpenings = [
   {
     title: 'Seasonal Packer',
     id: '618dbc31006c77953113c19c',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7215,7 +7215,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Operations',
     id: '618dbc2f006c77953113be23',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -7225,7 +7225,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver Trainee - CDL A Permit',
     id: '618dbc28006c77953113ae00',
-    categories: [
+    departments: [
       'internship',
       'manual_work'
     ],
@@ -7235,7 +7235,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Relief Schedule GeoBox (CDL Required)',
     id: '618dbc1f006c779531139b74',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7244,7 +7244,7 @@ export const jobOpenings = [
   {
     title: 'Architect, Data Modeling',
     id: '618dbc14006c7795311381af',
-    categories: [
+    departments: [
       'data_analysis',
       'design',
       'information_technology'
@@ -7255,7 +7255,7 @@ export const jobOpenings = [
   {
     title: 'Talent Acquisition Coordinator - Global Data and Insight',
     id: '618dbbe0006c779531131ec6',
-    categories: [
+    departments: [
       'human_resources',
       'management',
       'marketing'
@@ -7266,7 +7266,7 @@ export const jobOpenings = [
   {
     title: 'Insights Sr. Analyst',
     id: '618dbbc0006c77953112dbed',
-    categories: [
+    departments: [
       'data_analysis'
     ],
     isClosed: false,
@@ -7275,7 +7275,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL',
     id: '618dbbbe006c77953112d7df',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7284,7 +7284,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) - Nights/SEASONAL',
     id: '618dbbb8006c77953112c86b',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7293,14 +7293,14 @@ export const jobOpenings = [
   {
     title: 'Reset Specialist (Seasonal)',
     id: '618dbb88006c779531126248',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000779687206?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Field Service Technician Trainee',
     id: '618dbb10006c779531115a4b',
-    categories: [
+    departments: [
       'engineering',
       'internship',
       'support'
@@ -7311,7 +7311,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618dbad6006c77953110e03a',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7320,7 +7320,7 @@ export const jobOpenings = [
   {
     title: 'Sales District Leader Designate - Alex - Dar El Salam 1 DC - Snacks',
     id: '618dba7d006c779531102178',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -7330,7 +7330,7 @@ export const jobOpenings = [
   {
     title: 'Sales District Leader Designate - Pensacola, FL',
     id: '618dba78006c77953110171b',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -7340,7 +7340,7 @@ export const jobOpenings = [
   {
     title: 'IT Infrastructure & Operations Analyst',
     id: '618dba76006c7795311011c2',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'operations'
@@ -7351,7 +7351,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver Trainee GeoBox (cdl Required)',
     id: '618dba71006c779531100545',
-    categories: [
+    departments: [
       'internship',
       'manual_work'
     ],
@@ -7361,7 +7361,7 @@ export const jobOpenings = [
   {
     title: 'Driver -CDL for Fruit Dumper/Full Time-Seasonal',
     id: '618dba67006c7795310ff147',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7370,7 +7370,7 @@ export const jobOpenings = [
   {
     title: 'Full-time Machine Operator Production - Weekend Nights',
     id: '618dba58006c7795310fd0f3',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -7380,7 +7380,7 @@ export const jobOpenings = [
   {
     title: 'Sales Finance Analyst with French',
     id: '618dba52006c7795310fc361',
-    categories: [
+    departments: [
       'data_analysis',
       'finance',
       'sales'
@@ -7391,7 +7391,7 @@ export const jobOpenings = [
   {
     title: 'Commercialization Manager (Beverage)',
     id: '618dba34006c7795310f8469',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -7400,7 +7400,7 @@ export const jobOpenings = [
   {
     title: 'Forklift Operator (Full-time/Nights)',
     id: '618dba2e006c7795310f774b',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7409,7 +7409,7 @@ export const jobOpenings = [
   {
     title: 'Tech Strategy Director',
     id: '618dba1d006c7795310f52ff',
-    categories: [
+    departments: [
       'consulting',
       'directors',
       'education'
@@ -7420,7 +7420,7 @@ export const jobOpenings = [
   {
     title: 'Vendor/Cooler Installer (MEM) -- CDL A is required',
     id: '618dba15006c7795310f4428',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7429,7 +7429,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618db9df006c7795310ed046',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -7438,7 +7438,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Evenings/CDL A License or Permit Required)',
     id: '618db9a8006c7795310e60d6',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -7447,7 +7447,7 @@ export const jobOpenings = [
   {
     title: 'Full-Time Warehouse Person (Loader)',
     id: '618db999006c7795310e3f64',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7456,14 +7456,14 @@ export const jobOpenings = [
   {
     title: 'Blow Molder',
     id: '618db998006c7795310e3b7b',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000778369206?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Merchandiser',
     id: '618db981006c7795310e0c63',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -7472,7 +7472,7 @@ export const jobOpenings = [
   {
     title: 'Weekend Part Time Merchandiser - ORILLIA',
     id: '618db94e006c7795310da496',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -7481,7 +7481,7 @@ export const jobOpenings = [
   {
     title: 'Sr. Director of Design',
     id: '618db941006c7795310d88d0',
-    categories: [
+    departments: [
       'design',
       'directors',
       'education'
@@ -7492,7 +7492,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver-CDL A',
     id: '618db8c9006c7795310c8bb3',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7501,7 +7501,7 @@ export const jobOpenings = [
   {
     title: 'Dispatcher',
     id: '618db897006c7795310c1fac',
-    categories: [
+    departments: [
       'operations'
     ],
     isClosed: false,
@@ -7510,21 +7510,21 @@ export const jobOpenings = [
   {
     title: 'West Region Sustainability SCL',
     id: '618db865006c7795310bb722',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/250614BR?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Gate Checker Full-time/2nd or 3rd Shift',
     id: '618db816006c7795310b1099',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000773237406?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Field Service Technician (MEM)',
     id: '618db7f3006c7795310ac83f',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -7534,7 +7534,7 @@ export const jobOpenings = [
   {
     title: 'Fruit Processing Operator (Tropicana) Seasonal',
     id: '618db7dc006c7795310a95f4',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7543,7 +7543,7 @@ export const jobOpenings = [
   {
     title: 'Fountain Installer (MEM) (CDL A or B required)',
     id: '618db7c9006c7795310a6cde',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7552,7 +7552,7 @@ export const jobOpenings = [
   {
     title: 'IT Enterprise Solutions Architect',
     id: '618db793006c77953109fcc3',
-    categories: [
+    departments: [
       'design',
       'information_technology'
     ],
@@ -7562,7 +7562,7 @@ export const jobOpenings = [
   {
     title: 'Lead Solution Architect',
     id: '618db787006c77953109e274',
-    categories: [
+    departments: [
       'design'
     ],
     isClosed: false,
@@ -7571,7 +7571,7 @@ export const jobOpenings = [
   {
     title: 'Laboratory Technician - Night Shift',
     id: '618db770006c77953109b342',
-    categories: [
+    departments: [
       'engineering',
       'research'
     ],
@@ -7581,7 +7581,7 @@ export const jobOpenings = [
   {
     title: 'Productivity Supervisor',
     id: '618db76d006c77953109abfb',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -7590,7 +7590,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618db74e006c779531096bda',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -7599,7 +7599,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Relief Schedule GeoBox - CDL A',
     id: '618db720006c779531090cb7',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7608,14 +7608,14 @@ export const jobOpenings = [
   {
     title: 'Internal Communications Specialist',
     id: '618db702006c77953108d074',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/253575BR?lang=en-tr&previousLocale=en-US'
   },
   {
     title: 'Merchandiser (Part-Time / Rotating Shifts)',
     id: '618db6ce006c779531086f3d',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -7624,7 +7624,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Nights/SEASONAL',
     id: '618db6a8006c779531082066',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -7633,7 +7633,7 @@ export const jobOpenings = [
   {
     title: 'Commercialization Sr. Coordinator',
     id: '618db69a006c77953108044a',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -7642,7 +7642,7 @@ export const jobOpenings = [
   {
     title: "Stagiaire - Responsable d'équipe de la chaîne d'approvisionnement",
     id: '618db67f006c77953107cb74',
-    categories: [
+    departments: [
       'internship'
     ],
     isClosed: false,
@@ -7651,14 +7651,14 @@ export const jobOpenings = [
   {
     title: 'Specjalista ds. rozliczeń produkcji',
     id: '618db67a006c77953107bf69',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/251312BR?lang=pl-pl&previousLocale=en-US'
   },
   {
     title: 'Process Engineering Director',
     id: '618db654006c779531077219',
-    categories: [
+    departments: [
       'directors',
       'education',
       'engineering'
@@ -7669,7 +7669,7 @@ export const jobOpenings = [
   {
     title: 'Customer Management Analyst',
     id: '618db647006c779531075667',
-    categories: [
+    departments: [
       'data_analysis',
       'management'
     ],
@@ -7679,14 +7679,14 @@ export const jobOpenings = [
   {
     title: 'Seasonal Reset Specialist (Part-Time)',
     id: '618db620006c7795310706f9',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000767126506?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Experienced Fleet Technician -CDL A License Required',
     id: '618db5b6006c7795310628a4',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -7696,7 +7696,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (PT/Days)',
     id: '618db5b1006c779531061db1',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -7705,7 +7705,7 @@ export const jobOpenings = [
   {
     title: 'QA Technician - Tropicana/Gatorade',
     id: '618db5aa006c7795310611f5',
-    categories: [
+    departments: [
       'engineering',
       'quality_assurance'
     ],
@@ -7715,7 +7715,7 @@ export const jobOpenings = [
   {
     title: 'Senior Analyst, PepsiCo Walmart Advisor Team',
     id: '618db5a7006c779531060a6e',
-    categories: [
+    departments: [
       'data_analysis'
     ],
     isClosed: false,
@@ -7724,7 +7724,7 @@ export const jobOpenings = [
   {
     title: 'Supply Chain Fleet Supervisor',
     id: '618db5a6006c779531060926',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -7734,7 +7734,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Days/CDL A Required)',
     id: '618db58c006c77953105cfc0',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -7743,7 +7743,7 @@ export const jobOpenings = [
   {
     title: 'Controls Systems Specialist',
     id: '618db58a006c77953105ccfa',
-    categories: [
+    departments: [
       'information_technology'
     ],
     isClosed: false,
@@ -7752,7 +7752,7 @@ export const jobOpenings = [
   {
     title: 'Senior HR Manager',
     id: '618db555006c779531055b2b',
-    categories: [
+    departments: [
       'human_resources',
       'management'
     ],
@@ -7762,7 +7762,7 @@ export const jobOpenings = [
   {
     title: 'Senior Manager – IT Strategy',
     id: '618db551006c7795310551f0',
-    categories: [
+    departments: [
       'consulting',
       'information_technology',
       'management'
@@ -7773,7 +7773,7 @@ export const jobOpenings = [
   {
     title: 'Senior Data Engineer, Associate Manager',
     id: '618db541006c779531052d76',
-    categories: [
+    departments: [
       'data_analysis',
       'engineering',
       'information_technology',
@@ -7785,7 +7785,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)',
     id: '618db495006c77953103d108',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7794,7 +7794,7 @@ export const jobOpenings = [
   {
     title: 'Safety Officer',
     id: '618db48e006c77953103c2dc',
-    categories: [
+    departments: [
       'military_and_protective_services'
     ],
     isClosed: false,
@@ -7803,7 +7803,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Geo Delivery (Box Truck) (CDL Required)',
     id: '618db47c006c779531039e19',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7812,7 +7812,7 @@ export const jobOpenings = [
   {
     title: 'CDL A Full-time Driver - Geo Delivery (Box Truck)- Days',
     id: '618db46e006c779531038093',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7821,7 +7821,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) FT/Evenings',
     id: '618db457006c779531035b03',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7830,7 +7830,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (FT/Rotating Shifts/Detroit Metro Area)',
     id: '618db388006c77953101c26e',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -7839,7 +7839,7 @@ export const jobOpenings = [
   {
     title: 'IoT Edge Architect',
     id: '618db387006c77953101c11a',
-    categories: [
+    departments: [
       'design'
     ],
     isClosed: false,
@@ -7848,7 +7848,7 @@ export const jobOpenings = [
   {
     title: 'Environmental, Health, and Safety Associate Representative',
     id: '618db387006c77953101bfbe',
-    categories: [
+    departments: [
       'healthcare_services'
     ],
     isClosed: false,
@@ -7857,7 +7857,7 @@ export const jobOpenings = [
   {
     title: 'Category Management - Senior Manager',
     id: '618db34b006c7795310149a6',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -7866,7 +7866,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Operations',
     id: '618db336006c779531011c1a',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -7876,7 +7876,7 @@ export const jobOpenings = [
   {
     title: 'Stage - Assistant Chef de Produit H/F',
     id: '618db2f3006c779531009395',
-    categories: [
+    departments: [
       'management',
       'product_management',
       'support',
@@ -7888,7 +7888,7 @@ export const jobOpenings = [
   {
     title: 'Manufacturing Shift Leader - Al-Amerya Plant - Beverages',
     id: '618db2db006c7795310063eb',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -7898,7 +7898,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618db28a006c779531ffc315',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -7907,7 +7907,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Bulk Delivery (tractor trailer) - CDL A Required',
     id: '618db25a006c779531ff623e',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7916,7 +7916,7 @@ export const jobOpenings = [
   {
     title: 'Mechanic - Experienced Fleet Technician - CDL A Permit',
     id: '618db258006c779531ff5e25',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -7925,7 +7925,7 @@ export const jobOpenings = [
   {
     title: 'GL Accountant (Fixed Assets/Leases)',
     id: '618db255006c779531ff5700',
-    categories: [
+    departments: [
       'finance'
     ],
     isClosed: false,
@@ -7934,7 +7934,7 @@ export const jobOpenings = [
   {
     title: 'Shift Technician (Global Process Centre – Beaumont Park)',
     id: '618db24f006c779531ff4e3b',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -7943,7 +7943,7 @@ export const jobOpenings = [
   {
     title: 'Shift Technician - Cupar',
     id: '618db249006c779531ff41fc',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -7952,7 +7952,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Transport Driver (Tractor Trailer- Over the Road) (CDL A/Evenings)',
     id: '618db244006c779531ff386f',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -7961,7 +7961,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Large Grocery/Mass Merch (West Valley)',
     id: '618db229006c779531ff02c1',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -7970,7 +7970,7 @@ export const jobOpenings = [
   {
     title: 'DMO Transformation Associate Manager',
     id: '618db21f006c779531feef34',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -7979,7 +7979,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Experienced Fleet Technician - Nights/CDL A Permit',
     id: '618db20c006c779531fecda8',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -7988,7 +7988,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician - CDL A Permit or License',
     id: '618db1db006c779531fe67b8',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -7997,7 +7997,7 @@ export const jobOpenings = [
   {
     title: 'Technicien en réfrigération - Montréal',
     id: '618db1db006c779531fe6716',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -8006,7 +8006,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '618db1a5006c779531fe0bc5',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8015,7 +8015,7 @@ export const jobOpenings = [
   {
     title: 'Aviation Captain',
     id: '618db169006c779531fd994f',
-    categories: [
+    departments: [
       'military_and_protective_services'
     ],
     isClosed: false,
@@ -8024,7 +8024,7 @@ export const jobOpenings = [
   {
     title: 'Agriculture Research Lab Technician',
     id: '618db163006c779531fd8e3d',
-    categories: [
+    departments: [
       'engineering',
       'research'
     ],
@@ -8034,7 +8034,7 @@ export const jobOpenings = [
   {
     title: 'FoodService Sales Representative',
     id: '618db142006c779531fd4e5c',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -8043,7 +8043,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Required',
     id: '618db12a006c779531fd1fa7',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8052,7 +8052,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (FT/Days)',
     id: '618db112006c779531fcf464',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -8061,7 +8061,7 @@ export const jobOpenings = [
   {
     title: 'Marketing Digital Asset Management Specialist',
     id: '618db100006c779531fcd293',
-    categories: [
+    departments: [
       'management',
       'marketing'
     ],
@@ -8071,7 +8071,7 @@ export const jobOpenings = [
   {
     title: 'Associate Manager, Finance',
     id: '618db0ff006c779531fccfcf',
-    categories: [
+    departments: [
       'finance',
       'management'
     ],
@@ -8081,7 +8081,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '618db0ee006c779531fcaea2',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -8090,7 +8090,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-time)',
     id: '618db0d9006c779531fc84de',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -8099,7 +8099,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician Trainee (MEM) (Rotating Shifts)',
     id: '618db0c1006c779531fc5aae',
-    categories: [
+    departments: [
       'engineering',
       'internship',
       'support'
@@ -8110,7 +8110,7 @@ export const jobOpenings = [
   {
     title: 'Marketing Creative Support Supervisor - Lays',
     id: '618db08c006c779531fbf752',
-    categories: [
+    departments: [
       'management',
       'marketing',
       'support'
@@ -8121,7 +8121,7 @@ export const jobOpenings = [
   {
     title: 'Beverage Packaging R&D (Sustainable Packaging) - Senior Engineer',
     id: '618db055006c779531fb8f06',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -8130,7 +8130,7 @@ export const jobOpenings = [
   {
     title: 'Senior Director, Commercial',
     id: '618db055006c779531fb8db3',
-    categories: [
+    departments: [
       'directors',
       'education'
     ],
@@ -8140,7 +8140,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver -- CDL A',
     id: '618daf98006c779531fa3ed0',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8149,7 +8149,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Large Grocery/Mass Merch',
     id: '618daf8b006c779531fa29ab',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -8158,7 +8158,7 @@ export const jobOpenings = [
   {
     title: 'Entry-Level Truck Mechanic (CDL A permit)',
     id: '618daf50006c779531f9d65e',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8167,7 +8167,7 @@ export const jobOpenings = [
   {
     title: 'Fleet Material Handling Technician',
     id: '618daf4f006c779531f9d3f8',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -8176,7 +8176,7 @@ export const jobOpenings = [
   {
     title: 'Process Improvement Engineer',
     id: '618daf33006c779531f9b0a8',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -8185,7 +8185,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)',
     id: '618daecb006c779531f94821',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8194,7 +8194,7 @@ export const jobOpenings = [
   {
     title: "Stagiaire - Gestionnaire de la chaîne d'approvisionnement",
     id: '6136061c3ec963329385f2d5',
-    categories: [
+    departments: [
       'internship'
     ],
     isClosed: false,
@@ -8203,7 +8203,7 @@ export const jobOpenings = [
   {
     title: 'Data Privacy Manager (LATAM)',
     id: '6136061c3ec963329385f2b7',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'management'
@@ -8214,7 +8214,7 @@ export const jobOpenings = [
   {
     title: 'Local Deliver Driver (CDL A Permit)',
     id: '6136061b3ec963329385f299',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8223,7 +8223,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Food Vending Product Delivery CDL A or B',
     id: '6136061a3ec963329385f269',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8232,7 +8232,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver (CDL A Required) *Hiring Bonus*',
     id: '6136061a3ec963329385f257',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8241,7 +8241,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (Level 1)',
     id: '613606193ec963329385f239',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -8251,7 +8251,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Operations (Rotating Shifts)',
     id: '613606163ec963329385f1af',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -8261,7 +8261,7 @@ export const jobOpenings = [
   {
     title: 'Data Governance Project Manager',
     id: '613606153ec963329385f18b',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'management'
@@ -8272,7 +8272,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Delivery Driver - CDL A Permit',
     id: '613606143ec963329385f167',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8281,7 +8281,7 @@ export const jobOpenings = [
   {
     title: 'Agro Research Technician - Potatoes',
     id: '613606133ec963329385f125',
-    categories: [
+    departments: [
       'engineering',
       'research'
     ],
@@ -8291,7 +8291,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-time) Various Service Areas',
     id: '613606113ec963329385f0d7',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -8300,7 +8300,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '613606103ec963329385f0ad',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -8309,7 +8309,7 @@ export const jobOpenings = [
   {
     title: 'Mechanic - Fleet (NO CDL) - Evenings',
     id: '613606103ec963329385f089',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8318,7 +8318,7 @@ export const jobOpenings = [
   {
     title: 'Part-time Merchandiser (Statesboro, Metter & Vidalia)',
     id: '6136060f3ec963329385f065',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -8327,7 +8327,7 @@ export const jobOpenings = [
   {
     title: 'Supply Chain Plant Director Designate',
     id: '6136060f3ec963329385f059',
-    categories: [
+    departments: [
       'directors',
       'education',
       'purchasing'
@@ -8338,7 +8338,7 @@ export const jobOpenings = [
   {
     title: 'Production Forklift Operator (Full-time)',
     id: '6136060d3ec963329385f017',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -8348,7 +8348,7 @@ export const jobOpenings = [
   {
     title: 'SAP Process Integration Manager (Remote job)',
     id: '6136060d3ec963329385f005',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -8358,7 +8358,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - (Part-Time / Rotating Shifts)',
     id: '6136060d3ec963329385eff9',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -8368,7 +8368,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Certified Center Technician - Days',
     id: '6136060a3ec963329385ef75',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -8377,7 +8377,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver - CDL A',
     id: '613606093ec963329385ef4b',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8386,7 +8386,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Relief Schedule (FT/Days/CDL A REQUIRED)',
     id: '613606083ec963329385ef0f',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8395,7 +8395,7 @@ export const jobOpenings = [
   {
     title: 'Commercialization Artwork Process Analyst',
     id: '613606073ec963329385eefd',
-    categories: [
+    departments: [
       'data_analysis'
     ],
     isClosed: false,
@@ -8404,7 +8404,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Local Transport Driver - CDL A',
     id: '613606063ec963329385eec1',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8413,7 +8413,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production (Full-time)',
     id: '613606053ec963329385ee8b',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -8423,7 +8423,7 @@ export const jobOpenings = [
   {
     title: 'Manager Commodities Metals',
     id: '613606043ec963329385ee5b',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -8432,7 +8432,7 @@ export const jobOpenings = [
   {
     title: 'Sales District Leader Designate',
     id: '613606033ec963329385ee49',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -8442,7 +8442,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Transport Driver - CDL A',
     id: '613606023ec963329385ee1f',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8451,14 +8451,14 @@ export const jobOpenings = [
   {
     title: 'Cntrl & Rpt Associate',
     id: '613606023ec963329385ee19',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/247345BR?lang=en-eg&previousLocale=en-US'
   },
   {
     title: 'Mechanic - Fleet (NO CDL) - Evenings',
     id: '613606023ec963329385ee07',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8467,7 +8467,7 @@ export const jobOpenings = [
   {
     title: 'Associate Manager, Data Governance Specialist',
     id: '613606013ec963329385ede3',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'management'
@@ -8478,7 +8478,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (MEM) (Full-time)',
     id: '613605fe3ec963329385ed65',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -8488,7 +8488,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '613605fe3ec963329385ed47',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -8497,7 +8497,7 @@ export const jobOpenings = [
   {
     title: 'Mechanic - Fleet (NO CDL)',
     id: '613605fd3ec963329385ed2f',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8506,7 +8506,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Merchandiser - SEASONAL',
     id: '613605bf3ec963329385ecd8',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -8515,7 +8515,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician Trainee (MEM) - CDL A Permit',
     id: '612a375c3ec96332936c9e36',
-    categories: [
+    departments: [
       'engineering',
       'internship',
       'support'
@@ -8526,14 +8526,14 @@ export const jobOpenings = [
   {
     title: 'Yard Jockey - CDL A',
     id: '612a375a3ec96332936c9dd6',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000758198206?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Driver - Transport Driver (tractor trailer) - Nights / CDL A Required',
     id: '612a37573ec96332936c9d58',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8542,14 +8542,14 @@ export const jobOpenings = [
   {
     title: 'Yard Jockey',
     id: '612a37543ec96332936c9cf8',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000758194206?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Warehouse Person (Loader) PT/Evenings',
     id: '612a37543ec96332936c9cec',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8558,7 +8558,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver (CDL A Permit or License)',
     id: '612a37543ec96332936c9ce0',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8567,7 +8567,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Large Grocery/Mass Merch',
     id: '612a37543ec96332936c9cda',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -8576,7 +8576,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver (CDL A Permit or License)',
     id: '612a37533ec96332936c9cc8',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8585,7 +8585,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '612a36803ec96332936c979f',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -8594,7 +8594,7 @@ export const jobOpenings = [
   {
     title: 'PepsiCo Undergraduate National Customer and Commercial Intern',
     id: '612a367f3ec96332936c976f',
-    categories: [
+    departments: [
       'internship'
     ],
     isClosed: false,
@@ -8603,7 +8603,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician - Evenings/CDL A Permit',
     id: '612a367e3ec96332936c9739',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -8612,7 +8612,7 @@ export const jobOpenings = [
   {
     title: 'Mechanic - Fleet (NO CDL) - Sign On Bonus',
     id: '612a367e3ec96332936c9721',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8621,7 +8621,7 @@ export const jobOpenings = [
   {
     title: 'Entry-Level Fleet Technician (CDL A Permit)',
     id: '612a367d3ec96332936c96f7',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -8630,14 +8630,14 @@ export const jobOpenings = [
   {
     title: 'Contact Tracing Rep - Remote/Work From Home',
     id: '612a367c3ec96332936c96f1',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000758992806?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Full Time Local Delivery Driver Trainee - CDL A PERMIT',
     id: '612a367b3ec96332936c96bb',
-    categories: [
+    departments: [
       'internship',
       'manual_work'
     ],
@@ -8647,7 +8647,7 @@ export const jobOpenings = [
   {
     title: 'Global Strategy MBA Intern',
     id: '612a367b3ec96332936c96af',
-    categories: [
+    departments: [
       'consulting',
       'internship'
     ],
@@ -8657,7 +8657,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Full-time)',
     id: '612a36783ec96332936c963d',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -8666,7 +8666,7 @@ export const jobOpenings = [
   {
     title: 'PepsiCo Sales Management Intern',
     id: '612a36783ec96332936c9637',
-    categories: [
+    departments: [
       'internship',
       'management',
       'sales'
@@ -8677,7 +8677,7 @@ export const jobOpenings = [
   {
     title: 'Category Management and Insights Intern',
     id: '612a36743ec96332936c9595',
-    categories: [
+    departments: [
       'internship',
       'management'
     ],
@@ -8687,7 +8687,7 @@ export const jobOpenings = [
   {
     title: 'Data Science Graduate Intern',
     id: '612a36743ec96332936c9589',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'internship',
@@ -8699,7 +8699,7 @@ export const jobOpenings = [
   {
     title: 'Package Design Co-op',
     id: '612a36733ec96332936c9547',
-    categories: [
+    departments: [
       'design'
     ],
     isClosed: false,
@@ -8708,14 +8708,14 @@ export const jobOpenings = [
   {
     title: 'Gate Checker',
     id: '612a36723ec96332936c9523',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000758903406?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Electro-Mechanical Technician (Gatorade/Tolleson)',
     id: '612a36703ec96332936c94cf',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -8724,7 +8724,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)',
     id: '612a366f3ec96332936c94ab',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8733,7 +8733,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver - CDL A Required',
     id: '612a366c3ec96332936c942d',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8742,7 +8742,7 @@ export const jobOpenings = [
   {
     title: 'General Laborer Production - Atlanta, GA (Seasonal)',
     id: '612a366a3ec96332936c93e5',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -8752,7 +8752,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '612a366a3ec96332936c93d3',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -8761,7 +8761,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '612a366a3ec96332936c93c7',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8770,7 +8770,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (Full-time)',
     id: '612a36663ec96332936c933d',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8779,7 +8779,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production',
     id: '6121cf25cf507c217acb2424',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -8789,7 +8789,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-Time / Rotating Shifts)',
     id: '6121cf1bcf507c217acb224a',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -8798,7 +8798,7 @@ export const jobOpenings = [
   {
     title: 'Global Sustainability Intern',
     id: '6121cf18cf507c217acb21de',
-    categories: [
+    departments: [
       'internship'
     ],
     isClosed: false,
@@ -8807,7 +8807,7 @@ export const jobOpenings = [
   {
     title: 'Director Organization Effectiveness Transformation',
     id: '6121cf15cf507c217acb2136',
-    categories: [
+    departments: [
       'directors',
       'education'
     ],
@@ -8817,7 +8817,7 @@ export const jobOpenings = [
   {
     title: 'Director Organization Effectiveness Transformation',
     id: '6121cf14cf507c217acb212a',
-    categories: [
+    departments: [
       'directors',
       'education'
     ],
@@ -8827,7 +8827,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Geo Delivery (Box Truck) (CDL Required) (Full time)',
     id: '6121cf10cf507c217acb205e',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8836,7 +8836,7 @@ export const jobOpenings = [
   {
     title: 'SAP Process Integration Manager',
     id: '6121cf0bcf507c217acb1f74',
-    categories: [
+    departments: [
       'engineering',
       'management'
     ],
@@ -8846,7 +8846,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (Full-time)',
     id: '6121cf0bcf507c217acb1f6e',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8855,7 +8855,7 @@ export const jobOpenings = [
   {
     title: 'Sr. Treasury Analyst',
     id: '6121cecccf507c217acb1f09',
-    categories: [
+    departments: [
       'data_analysis'
     ],
     isClosed: false,
@@ -8864,7 +8864,7 @@ export const jobOpenings = [
   {
     title: 'Local Relief Driver (Full-Time / CDL A)',
     id: '6121cecccf507c217acb1f03',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8873,7 +8873,7 @@ export const jobOpenings = [
   {
     title: 'Customer Management Associate Analyst with French',
     id: '6121cecbcf507c217acb1ef1',
-    categories: [
+    departments: [
       'data_analysis',
       'management'
     ],
@@ -8883,7 +8883,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver -- CDL A',
     id: '6121cec6cf507c217acb1e07',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8892,7 +8892,7 @@ export const jobOpenings = [
   {
     title: 'Sector IT Sr Manager',
     id: '6121cec6cf507c217acb1df5',
-    categories: [
+    departments: [
       'information_technology',
       'management'
     ],
@@ -8902,7 +8902,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician Trainee (MEM)',
     id: '6121cec3cf507c217acb1d7d',
-    categories: [
+    departments: [
       'engineering',
       'internship',
       'support'
@@ -8913,7 +8913,7 @@ export const jobOpenings = [
   {
     title: 'Fountain Installer (MEM) - Rotating',
     id: '611c1ea682578b2500f87618',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8922,7 +8922,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician',
     id: '611c1ea382578b2500f87594',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -8932,7 +8932,7 @@ export const jobOpenings = [
   {
     title: 'Brand Marketing Manager (Beverages)',
     id: '611c1ea082578b2500f874e0',
-    categories: [
+    departments: [
       'management',
       'marketing'
     ],
@@ -8942,7 +8942,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Convenience/Gas',
     id: '611c1e9d82578b2500f87438',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -8951,7 +8951,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) Seasonal',
     id: '611c1e9b82578b2500f873ea',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8960,7 +8960,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Transport Driver - CDL A/Nights',
     id: '611c1e5e82578b2500f873c2',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -8969,7 +8969,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production',
     id: '611c1e5d82578b2500f8738c',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -8979,7 +8979,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Reading/Lancaster',
     id: '611c1e5b82578b2500f8733e',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -8988,7 +8988,7 @@ export const jobOpenings = [
   {
     title: 'Senior Analyst, LATAM Treasury',
     id: '611c1d9f82578b2500f871d4',
-    categories: [
+    departments: [
       'data_analysis'
     ],
     isClosed: false,
@@ -8997,7 +8997,7 @@ export const jobOpenings = [
   {
     title: 'Contract Route Sales Representative - CORNWALL',
     id: '611c1d9e82578b2500f871b0',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -9006,7 +9006,7 @@ export const jobOpenings = [
   {
     title: 'Senior Manager Strategy',
     id: '611c1d9c82578b2500f87162',
-    categories: [
+    departments: [
       'consulting',
       'management'
     ],
@@ -9016,7 +9016,7 @@ export const jobOpenings = [
   {
     title: 'Director, External Data Steward (2nd & 3rd Party Data)',
     id: '611c1d9c82578b2500f8713e',
-    categories: [
+    departments: [
       'data_analysis',
       'directors',
       'education',
@@ -9029,7 +9029,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Sales (Seasonal)',
     id: '611c1d9882578b2500f87086',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -9039,7 +9039,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Days/CDL A permit required)',
     id: '611c1d9182578b2500f86f1e',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -9048,7 +9048,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician -CDL A Permit Required)',
     id: '611c1d8c82578b2500f86e28',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -9058,7 +9058,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver - CDL A Permit Required',
     id: '611c1d8982578b2500f86d92',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9067,7 +9067,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (Level 1 / Evenings)',
     id: '611c1d8182578b2500f86be2',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -9077,14 +9077,14 @@ export const jobOpenings = [
   {
     title: 'Gate Checker (Full-time)',
     id: '611c1d7f82578b2500f86b94',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000754575006?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Warehouse Person (Loader) (Full-time)',
     id: '611c1d7f82578b2500f86b82',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9093,7 +9093,7 @@ export const jobOpenings = [
   {
     title: 'PepsiCo Sales Associate Manager',
     id: '61170cbb6bfedd02e8a2734c',
-    categories: [
+    departments: [
       'management',
       'sales'
     ],
@@ -9103,7 +9103,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (MEM) (Full-time)',
     id: '61170cbb6bfedd02e8a27334',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -9113,7 +9113,7 @@ export const jobOpenings = [
   {
     title: 'Data Engineering Intern',
     id: '61170cba6bfedd02e8a27316',
-    categories: [
+    departments: [
       'data_analysis',
       'engineering',
       'information_technology',
@@ -9125,7 +9125,7 @@ export const jobOpenings = [
   {
     title: 'General Labor - Operations (2nd shift)',
     id: '61170cba6bfedd02e8a27310',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -9135,7 +9135,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)',
     id: '61170cba6bfedd02e8a272fe',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9144,7 +9144,7 @@ export const jobOpenings = [
   {
     title: 'Insights MBA Intern',
     id: '61170cb96bfedd02e8a272da',
-    categories: [
+    departments: [
       'internship'
     ],
     isClosed: false,
@@ -9153,7 +9153,7 @@ export const jobOpenings = [
   {
     title: 'PepsiCo Supply Chain Intern',
     id: '61170cb86bfedd02e8a272b0',
-    categories: [
+    departments: [
       'internship',
       'purchasing'
     ],
@@ -9163,7 +9163,7 @@ export const jobOpenings = [
   {
     title: 'Human Resources Representative',
     id: '61170cb86bfedd02e8a272aa',
-    categories: [
+    departments: [
       'human_resources'
     ],
     isClosed: false,
@@ -9172,7 +9172,7 @@ export const jobOpenings = [
   {
     title: 'Accounting Control Undergraduate Intern',
     id: '61170cb86bfedd02e8a2729e',
-    categories: [
+    departments: [
       'finance',
       'internship'
     ],
@@ -9182,7 +9182,7 @@ export const jobOpenings = [
   {
     title: 'PepsiCo Foodservice Sales Intern',
     id: '61170cb86bfedd02e8a27298',
-    categories: [
+    departments: [
       'internship',
       'sales'
     ],
@@ -9192,7 +9192,7 @@ export const jobOpenings = [
   {
     title: 'Junior Brand Designer',
     id: '61170cb76bfedd02e8a27280',
-    categories: [
+    departments: [
       'design',
       'marketing'
     ],
@@ -9202,7 +9202,7 @@ export const jobOpenings = [
   {
     title: 'Data Scientist',
     id: '61170cb76bfedd02e8a27274',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'research'
@@ -9213,7 +9213,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) Full-Time/Evenings/Seasonal',
     id: '61170cb76bfedd02e8a2726e',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9222,7 +9222,7 @@ export const jobOpenings = [
   {
     title: 'R&D Packaging Co-Op',
     id: '61170cb66bfedd02e8a2724a',
-    categories: [
+    departments: [
       'research'
     ],
     isClosed: false,
@@ -9231,7 +9231,7 @@ export const jobOpenings = [
   {
     title: 'Environmental, Health, and Safety Specialist Intern',
     id: '61170cb66bfedd02e8a27244',
-    categories: [
+    departments: [
       'healthcare_services',
       'internship'
     ],
@@ -9241,7 +9241,7 @@ export const jobOpenings = [
   {
     title: 'PepsiCo Global Procurement Associate Analyst',
     id: '61170cb66bfedd02e8a27232',
-    categories: [
+    departments: [
       'data_analysis',
       'purchasing'
     ],
@@ -9251,7 +9251,7 @@ export const jobOpenings = [
   {
     title: 'PepsiCo Human Resources Intern',
     id: '61170cb56bfedd02e8a27226',
-    categories: [
+    departments: [
       'human_resources',
       'internship'
     ],
@@ -9261,7 +9261,7 @@ export const jobOpenings = [
   {
     title: 'PepsiCo Foodservice Sales Associate',
     id: '61170cb56bfedd02e8a2721a',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -9270,7 +9270,7 @@ export const jobOpenings = [
   {
     title: 'Global Procurement Intern',
     id: '61170cb56bfedd02e8a2720e',
-    categories: [
+    departments: [
       'internship',
       'purchasing'
     ],
@@ -9280,7 +9280,7 @@ export const jobOpenings = [
   {
     title: 'Marketing MBA Intern',
     id: '61170cb36bfedd02e8a271ba',
-    categories: [
+    departments: [
       'internship',
       'marketing'
     ],
@@ -9290,7 +9290,7 @@ export const jobOpenings = [
   {
     title: 'Marketing Associate Manager',
     id: '61170cb26bfedd02e8a2717e',
-    categories: [
+    departments: [
       'management',
       'marketing'
     ],
@@ -9300,7 +9300,7 @@ export const jobOpenings = [
   {
     title: 'PepsiCo Supply Chain Co-op',
     id: '61170cb26bfedd02e8a27166',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -9309,7 +9309,7 @@ export const jobOpenings = [
   {
     title: 'Global Procurement Analyst',
     id: '61170cb16bfedd02e8a27148',
-    categories: [
+    departments: [
       'data_analysis',
       'purchasing'
     ],
@@ -9319,7 +9319,7 @@ export const jobOpenings = [
   {
     title: 'TDC Senior Engineer',
     id: '61170cb16bfedd02e8a27130',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -9328,7 +9328,7 @@ export const jobOpenings = [
   {
     title: 'Supply Chain Accounting Intern',
     id: '61170cb06bfedd02e8a27112',
-    categories: [
+    departments: [
       'finance',
       'internship',
       'purchasing'
@@ -9339,7 +9339,7 @@ export const jobOpenings = [
   {
     title: 'Fountain Installer (MEM)',
     id: '61170cb06bfedd02e8a27106',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9348,7 +9348,7 @@ export const jobOpenings = [
   {
     title: 'eCommerce Sales/Marketing Intern',
     id: '61170cb06bfedd02e8a270f4',
-    categories: [
+    departments: [
       'internship',
       'marketing',
       'sales'
@@ -9359,7 +9359,7 @@ export const jobOpenings = [
   {
     title: 'Global Procurement Associate Manager',
     id: '61170caf6bfedd02e8a270e2',
-    categories: [
+    departments: [
       'management',
       'purchasing'
     ],
@@ -9369,7 +9369,7 @@ export const jobOpenings = [
   {
     title: 'Strategic Finance Associate Manager (North America HQ',
     id: '61170caf6bfedd02e8a270ca',
-    categories: [
+    departments: [
       'finance',
       'management'
     ],
@@ -9379,7 +9379,7 @@ export const jobOpenings = [
   {
     title: 'Strategic Finance Associate Analyst',
     id: '61170caf6bfedd02e8a270c4',
-    categories: [
+    departments: [
       'data_analysis',
       'finance'
     ],
@@ -9389,7 +9389,7 @@ export const jobOpenings = [
   {
     title: 'Insights Associate Manager',
     id: '61170cac6bfedd02e8a2703a',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -9398,7 +9398,7 @@ export const jobOpenings = [
   {
     title: 'Marketing Undergraduate Intern',
     id: '61170cab6bfedd02e8a2701c',
-    categories: [
+    departments: [
       'internship',
       'marketing'
     ],
@@ -9408,7 +9408,7 @@ export const jobOpenings = [
   {
     title: 'Accounting Control Assistant Analyst',
     id: '61170caa6bfedd02e8a26fce',
-    categories: [
+    departments: [
       'data_analysis',
       'finance',
       'support'
@@ -9419,7 +9419,7 @@ export const jobOpenings = [
   {
     title: 'eCommerce Data Engineer',
     id: '61170ca66bfedd02e8a26f08',
-    categories: [
+    departments: [
       'data_analysis',
       'engineering',
       'information_technology'
@@ -9430,7 +9430,7 @@ export const jobOpenings = [
   {
     title: 'Sr Director, Program Management and Transformation',
     id: '61170ca46bfedd02e8a26e9c',
-    categories: [
+    departments: [
       'directors',
       'education',
       'management'
@@ -9441,7 +9441,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '61170ca36bfedd02e8a26e7e',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -9450,7 +9450,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (MEM) (Full-time)',
     id: '61170ca36bfedd02e8a26e6c',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -9460,7 +9460,7 @@ export const jobOpenings = [
   {
     title: 'Transport Driver (tractor trailer) - Evenings/CDL A',
     id: '6111e4c4cd1eb177374d5f4a',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9469,7 +9469,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Relief Schedule GeoBox - CDL A Required',
     id: '611165f0cd1eb177374b3bfd',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9478,7 +9478,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (Evenings)',
     id: '611165e9cd1eb177374b3a95',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9487,7 +9487,7 @@ export const jobOpenings = [
   {
     title: 'Global Data Governance Manager',
     id: '611165e7cd1eb177374b3a47',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'management'
@@ -9498,7 +9498,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver - CDL A Required/Tues-Sat (HIRING BONUS)',
     id: '611165e1cd1eb177374b3927',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9507,7 +9507,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Part Time',
     id: '611165decd1eb177374b3873',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -9516,7 +9516,7 @@ export const jobOpenings = [
   {
     title: 'Insight Manager - Breakthrough Innovation',
     id: '611165d9cd1eb177374b37a1',
-    categories: [
+    departments: [
       'management'
     ],
     isClosed: false,
@@ -9525,7 +9525,7 @@ export const jobOpenings = [
   {
     title: 'Entry-Level Fleet Technician (Full-time)',
     id: '6111659acd1eb177374b370d',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -9534,7 +9534,7 @@ export const jobOpenings = [
   {
     title: 'Cloud Migration Specialist',
     id: '61116599cd1eb177374b36ad',
-    categories: [
+    departments: [
       'information_technology'
     ],
     isClosed: false,
@@ -9543,7 +9543,7 @@ export const jobOpenings = [
   {
     title: 'Part Time Driver - Transport (Tractor Trailer) - CDL A',
     id: '61116597cd1eb177374b366b',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9552,7 +9552,7 @@ export const jobOpenings = [
   {
     title: 'Finance Senior Manager',
     id: '61116595cd1eb177374b35e1',
-    categories: [
+    departments: [
       'finance',
       'management'
     ],
@@ -9562,7 +9562,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Experienced Fleet Technician - CDL A Permit',
     id: '6111658dcd1eb177374b3467',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -9571,7 +9571,7 @@ export const jobOpenings = [
   {
     title: 'Entry-Level Fleet Technician (Full-time)',
     id: '6111658acd1eb177374b33bf',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -9580,7 +9580,7 @@ export const jobOpenings = [
   {
     title: 'Manufacturing Electrical & Instrumentation Technician - Bradenton, FL',
     id: '61116589cd1eb177374b33b3',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -9589,7 +9589,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Transport Driver - CDL A',
     id: '61116588cd1eb177374b336b',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9598,7 +9598,7 @@ export const jobOpenings = [
   {
     title: 'Full Time Field Service Technician - Days',
     id: '61116585cd1eb177374b32c3',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -9608,7 +9608,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (MEM)',
     id: '610cbc0a6d77452d9ab22e5a',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -9618,7 +9618,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-time)',
     id: '610cbc056d77452d9ab22d46',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -9627,7 +9627,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (Full-time)',
     id: '610cbc016d77452d9ab22c7a',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9636,7 +9636,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Full-time)',
     id: '610cbc016d77452d9ab22c74',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -9645,7 +9645,7 @@ export const jobOpenings = [
   {
     title: 'Principal Data Scientist',
     id: '610cbc016d77452d9ab22c5c',
-    categories: [
+    departments: [
       'data_analysis',
       'education',
       'information_technology',
@@ -9657,7 +9657,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician-CDL A L or Permit',
     id: '610cbbfe6d77452d9ab22bea',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -9667,7 +9667,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (Full-time) CDL A Permit Required',
     id: '610cbbb96d77452d9ab229fa',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -9676,7 +9676,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Permit Required',
     id: '6108a9dd1527df4410efeaa5',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9685,7 +9685,7 @@ export const jobOpenings = [
   {
     title: 'Sr Principal Data Scientist Innovation Lead',
     id: '6108a9d81527df4410efe991',
-    categories: [
+    departments: [
       'data_analysis',
       'education',
       'information_technology',
@@ -9697,7 +9697,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '6108a9d71527df4410efe967',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -9706,7 +9706,7 @@ export const jobOpenings = [
   {
     title: 'Winter 2022 Sales Intern – HALIFAX',
     id: '6108a9d61527df4410efe943',
-    categories: [
+    departments: [
       'internship',
       'sales'
     ],
@@ -9716,7 +9716,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) Seasonal PM',
     id: '6108a9d41527df4410efe8d1',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9725,7 +9725,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Part-time/Rotating Shifts',
     id: '6108a9d21527df4410efe877',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -9734,7 +9734,7 @@ export const jobOpenings = [
   {
     title: 'Fountain Installer (MEM) - Rotating Shift',
     id: '6108a9cd1527df4410efe76f',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9743,7 +9743,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Transport Driver (tractor trailer) CDL A is Required',
     id: '6108a9cc1527df4410efe727',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9752,14 +9752,14 @@ export const jobOpenings = [
   {
     title: 'Equipment Delivery - FT/Days/CDL Permit Required',
     id: '6108a9c71527df4410efe64f',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/5000730652806?lang=en-us&previousLocale=en-US'
   },
   {
     title: 'Machine Operator Production - FT/Nights',
     id: '6108a9c61527df4410efe625',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -9769,7 +9769,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (MEM)',
     id: '6108a9c21527df4410efe535',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -9779,7 +9779,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver (CDL A required) (Hiring Bonus)',
     id: '6108a9c11527df4410efe523',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9788,7 +9788,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) (Full-time)',
     id: '6108a9c11527df4410efe51d',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9797,14 +9797,14 @@ export const jobOpenings = [
   {
     title: 'Transition Specialist',
     id: '6108a8b71527df4410efdff3',
-    categories: [],
+    departments: [],
     isClosed: false,
     url: 'https://www.pepsicojobs.com/main/jobs/244487BR?lang=en-pl&previousLocale=en-US'
   },
   {
     title: 'Global Data Governance Manager',
     id: '61014388a58b1246f22c7534',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'management'
@@ -9815,7 +9815,7 @@ export const jobOpenings = [
   {
     title: 'Gen Labor Vending and Fountain Equipment CDL A Required',
     id: '61014384a58b1246f22c744a',
-    categories: [
+    departments: [
       'research',
       'manual_work'
     ],
@@ -9825,7 +9825,7 @@ export const jobOpenings = [
   {
     title: 'Customer Management Associate Analyst',
     id: '61014383a58b1246f22c741a',
-    categories: [
+    departments: [
       'data_analysis',
       'management'
     ],
@@ -9835,7 +9835,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '61014381a58b1246f22c73d8',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -9844,7 +9844,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver (CDL A required)',
     id: '6101437ca58b1246f22c72be',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9853,7 +9853,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (PT/Days)',
     id: '61014334a58b1246f22c7062',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -9862,7 +9862,7 @@ export const jobOpenings = [
   {
     title: 'Machine Operator Production (Rotating Shifts/Seasonal)',
     id: '61014333a58b1246f22c703e',
-    categories: [
+    departments: [
       'engineering',
       'manual_work'
     ],
@@ -9872,7 +9872,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Large Grocery/Mass Merch',
     id: '610142e4a58b1246f22c6c6e',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -9881,7 +9881,7 @@ export const jobOpenings = [
   {
     title: 'Communications Web Coordinator',
     id: '610142e3a58b1246f22c6c62',
-    categories: [
+    departments: [
       'information_technology',
       'management'
     ],
@@ -9891,7 +9891,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver Box Truck - CDL A',
     id: '60fc56dbbcc7010d599b3aa2',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9900,7 +9900,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver - CDL A Required (HIRING BONUS)',
     id: '60fc56d3bcc7010d599b392e',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9909,7 +9909,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Transport Driver (tractor trailer)',
     id: '60fc54d6bcc7010d599b33ce',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9918,7 +9918,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (Part-Time/Small Format)',
     id: '60fc54d0bcc7010d599b32a8',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -9927,7 +9927,7 @@ export const jobOpenings = [
   {
     title: 'Internal Data Steward Manager, Consumer',
     id: '60f8d52dc08dea16fa9e8468',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'management',
@@ -9939,7 +9939,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (FT/Days)',
     id: '60f8d51fc08dea16fa9e81b6',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -9948,7 +9948,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Large Grocery/Mass Merch',
     id: '60f8d51dc08dea16fa9e812c',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -9957,7 +9957,7 @@ export const jobOpenings = [
   {
     title: 'Data Governance Associate Manager, LATAM',
     id: '60f8d51bc08dea16fa9e80c6',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'management'
@@ -9968,7 +9968,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser',
     id: '60f8d4d5c08dea16fa9e7ecb',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -9977,7 +9977,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver - Servicing Liberal KS (CDL A Permit)',
     id: '60f8d3b4c08dea16fa9e7541',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9986,7 +9986,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '60f8d3b0c08dea16fa9e7445',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -9995,7 +9995,7 @@ export const jobOpenings = [
   {
     title: 'Data Science Supply Chain Lead',
     id: '60f8d372c08dea16fa9e73fa',
-    categories: [
+    departments: [
       'data_analysis',
       'information_technology',
       'purchasing',
@@ -10007,7 +10007,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (MEM) - CDL A',
     id: '60f86f0173231f575eb39151',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -10017,7 +10017,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '60f86f0073231f575eb39121',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10026,7 +10026,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver - CDL A Required',
     id: '60f86eff73231f575eb3911b',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10035,7 +10035,7 @@ export const jobOpenings = [
   {
     title: 'Mechanic - Fleet (NO CDL)',
     id: '60f86eff73231f575eb390fd',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10044,7 +10044,7 @@ export const jobOpenings = [
   {
     title: 'Revenue Management Capability Senior Analyst',
     id: '60f86ef673231f575eb38f47',
-    categories: [
+    departments: [
       'data_analysis',
       'finance',
       'management'
@@ -10055,7 +10055,7 @@ export const jobOpenings = [
   {
     title: 'Data Science & Analytics Director',
     id: '60f86eea73231f575eb38d19',
-    categories: [
+    departments: [
       'data_analysis',
       'directors',
       'education',
@@ -10068,7 +10068,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) Full-Time/Evenings',
     id: '60f86ee973231f575eb38cd7',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10077,7 +10077,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Convenience/Gas',
     id: '60f86ee873231f575eb38cd1',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -10086,7 +10086,7 @@ export const jobOpenings = [
   {
     title: 'Sales Rep - Relief Large Grocery',
     id: '60f86ee573231f575eb38c2f',
-    categories: [
+    departments: [
       'sales'
     ],
     isClosed: false,
@@ -10095,7 +10095,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser Full Time Seasonal',
     id: '60f4d3f82de9a73a09ea97bb',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -10104,7 +10104,7 @@ export const jobOpenings = [
   {
     title: 'Media Planner & Buyer Lead',
     id: '60f4d3f72de9a73a09ea97b5',
-    categories: [
+    departments: [
       'marketing',
       'purchasing'
     ],
@@ -10114,7 +10114,7 @@ export const jobOpenings = [
   {
     title: 'Operator controlekamer 3pl',
     id: '60f4d3f22de9a73a09ea975d',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10123,7 +10123,7 @@ export const jobOpenings = [
   {
     title: 'Delivery Driver - CDL A',
     id: '60f4d3ec2de9a73a09ea96f9',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10132,7 +10132,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Days/CDL A Required)',
     id: '60f4d3e92de9a73a09ea96c1',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -10141,7 +10141,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Required/HIRING BONUS',
     id: '60f4d3e72de9a73a09ea96a7',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10150,7 +10150,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver -- CDL A',
     id: '60f4d3e72de9a73a09ea96a5',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10159,7 +10159,7 @@ export const jobOpenings = [
   {
     title: 'Operator 3 ploegen',
     id: '60f4d3e62de9a73a09ea9693',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10168,7 +10168,7 @@ export const jobOpenings = [
   {
     title: 'Local Driver - Relief (Full-time) CDL A or Permit Required',
     id: '60f4d2e82de9a73a09ea95a5',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10177,7 +10177,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Required',
     id: '60f077a3af71f674ca756a9e',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10186,7 +10186,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician - 2nd shift/CDL A Permit',
     id: '60f0779aaf71f674ca7569fe',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -10195,7 +10195,7 @@ export const jobOpenings = [
   {
     title: 'Transport Driver Chattanooga- CDL A',
     id: '60f07799af71f674ca7569fa',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10204,7 +10204,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader)',
     id: '60f07799af71f674ca7569f8',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10213,7 +10213,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - PT/Rotating Shift/Seasonal',
     id: '60ee3de5673e091f61f2f340',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -10222,7 +10222,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '60edfbdd673e091f61f2a399',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10231,7 +10231,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A Required',
     id: '60ed4a41d2ebbc2610c62c70',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10240,7 +10240,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver - CDL A',
     id: '60ecd16ad2ebbc2610c59e77',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10249,7 +10249,7 @@ export const jobOpenings = [
   {
     title: 'Media Planner& Buyer Lead',
     id: '60ecd125d2ebbc2610c59dde',
-    categories: [
+    departments: [
       'marketing',
       'purchasing'
     ],
@@ -10259,7 +10259,7 @@ export const jobOpenings = [
   {
     title: 'Warehouse Person (Loader) FT/Nights',
     id: '60e93a384d238347ec6d67ef',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10268,7 +10268,7 @@ export const jobOpenings = [
   {
     title: 'Lab Application Solutions Sr Analyst',
     id: '60e93a389d715c445aec6533',
-    categories: [
+    departments: [
       'data_analysis',
       'research'
     ],
@@ -10278,7 +10278,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician (MEM)',
     id: '60e93982dc234147d9b39710',
-    categories: [
+    departments: [
       'engineering',
       'support'
     ],
@@ -10288,7 +10288,7 @@ export const jobOpenings = [
   {
     title: 'Entry-Level Fleet Technician (Evenings/CDL A Permit)',
     id: '60e939826d96aa483915dadd',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -10297,7 +10297,7 @@ export const jobOpenings = [
   {
     title: 'Field Service Technician Trainee (MEM) (Full-time/Evenings/D10K)',
     id: '60e5bcca4d7ea149b5fb801e',
-    categories: [
+    departments: [
       'engineering',
       'internship',
       'support'
@@ -10308,7 +10308,7 @@ export const jobOpenings = [
   {
     title: 'Lead Experienced Fleet Technician - CDL A Required',
     id: '60e5b7c1e5ff7c472ae27e63',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -10317,7 +10317,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - PT/Rotating/SEASONAL',
     id: '60e5b7c1de618f499b324ec8',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -10326,7 +10326,7 @@ export const jobOpenings = [
   {
     title: 'Driver - Greater Cleveland/Akron (full time, Days, CDL A Required) Hiring Bonus',
     id: '60e5b7c1d6f4e0471e55deec',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10335,7 +10335,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Evenings/CDL A Permit)',
     id: '60e5b7c108787e44ac48f600',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -10344,7 +10344,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser - Carroll County Area',
     id: '60e5b7c0eaba9e479d7cd1f0',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -10353,7 +10353,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Evenings/CDL A Permit)',
     id: '60e5b569a90a774367101317',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -10362,7 +10362,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Evenings/CDL A Permit req)',
     id: '60e5b56943199743b1f0c20f',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -10371,7 +10371,7 @@ export const jobOpenings = [
   {
     title: 'Mechanic - Experienced Fleet Tech CDL A Learner',
     id: '60e5b569740bfc44ec5b6379',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
@@ -10380,7 +10380,7 @@ export const jobOpenings = [
   {
     title: 'Experienced Fleet Technician (FT/Evenings/CDL A Permit)',
     id: '60e5b569abbbdc445243075f',
-    categories: [
+    departments: [
       'engineering'
     ],
     isClosed: false,
@@ -10389,7 +10389,7 @@ export const jobOpenings = [
   {
     title: 'Merchandiser (FT/Rotating Shifts)',
     id: '60e5b56976cddb430e5ba671',
-    categories: [
+    departments: [
       'purchasing'
     ],
     isClosed: false,
@@ -10398,7 +10398,7 @@ export const jobOpenings = [
   {
     title: 'Local Delivery Driver -- CDL A',
     id: '60e5b569740bfc44ec5b6371',
-    categories: [
+    departments: [
       'manual_work'
     ],
     isClosed: false,
