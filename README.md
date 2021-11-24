@@ -11,7 +11,7 @@ npm run serve
 ```
 
 ### Execution flow
-- Create branch from main and name it with next convention: `dev-[lastname]-[date]`. Example: `dev-smith-24112021`.
+- Create branch from `main` branch and name it with next convention: `dev-[lastname]-[date]`. Example: `dev-smith-24112021`.
 - Once done, create PR into main from your dev branch. Add `Andriy Vasylytsya` and `Viktor Romanyuk` as reviewers.
 - Ping contact person about finishing the task.
 
