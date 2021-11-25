@@ -10,6 +10,9 @@ npm install
 npm run serve
 ```
 
+### Finished task video overview
+- https://app.usebubbles.com/tQNaLg33wetgfRLJnD1MV8/25-november-2021-comments-with-bubbles
+
 ### Execution flow
 - Create branch from `main` branch and name it with next convention: `dev-[lastname]-[date]`. Example: `dev-smith-24112021`.
 - Once done, create PR into main from your dev branch. Add `Andriy Vasylytsya` and `Viktor Romanyuk` as reviewers.
@@ -27,3 +30,4 @@ Main idea of the task is to group job openings items (coming from `jobOpeningsSe
 - Dynamically show 2 values of currently filtered items and all items in the copy example: `'Showing 200 out of 1092 job openings'`
 - Sort all departments in rendered tree alphabetically.
 - Task should be implemented with all Vue.js best practices in scope of performance and rendering.
+
